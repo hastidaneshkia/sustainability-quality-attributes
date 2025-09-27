@@ -1,0 +1,709 @@
+Year,SQC,Definition ,Source,Project Domain,Reference,Technical,Environmental,Economic,Social
+2023,Effectiveness,Accuracy and completeness of the system (measure computing resources),Group 1 - 2023,Urban Mobility,[ISO/IEC 25010:2011],X,,,
+,,,Group 5 - 2023,Education,,,,,
+,,,Group 17 - 2023,,,,,,
+,,Accuracy and completeness with which users achieve specified goals (measure time needed by users to achieve a goal accurately and complerely (with the system)),Group 1 - 2023,Urban Mobility,,,,,X
+,,,Group 5 - 2023,Education,,,,,
+,,,Group 17 - 2023,,,,,,
+,Interoperability,A system can exchange information with other systems and use the information that has been exchanged  ,Group 1 - 2023,Urban Mobility,[ISO/IEC 25010:2011],X,,,
+,,"Data Exchange Success Rate: estimates the proportion of data exchanges or transactions that are successfully completed between different systems or devices within a network. It evaluates how effectively various systems can communicate with one another without mistakes, data loss, or incompatibilities ",Group 3 - 2023,Agriculture,ISO/IEC 25000,,,,
+,,"Degree to which two or more systems, products or components can exchange information and use the information that has been exchanged. ",Group 10 - 2023,Urban Mobility,[ISO/IEC 25010:2011],X,,,
+,,"Students, teachers and staff members will be able to communicate and exchange information instantly with each other. We think that this will make the current communication system more efficient. ",Group 17 - 2023,Education,,,,,X
+,,Degree to which a system can exchange information with other systems and use the information. ,Group 17 - 2023,,,X,,,
+,,,Group 11 - 2023,Agriculture,,,,,
+,,,Group 18 - 2023,Art and Museum,,,,,
+,,,Group 2 - 2023,Art and Museum,[ISO/IEC 25010:2011],,,,
+,,,Group 4 - 2023,,,,,,
+,,,Group 7 - 2023,,,,,,
+,Efficiency,Resources expended in relation to the accuracy and completeness of the system.,Group 1 - 2023,Urban Mobility,[ISO/IEC 25010:2011],X,,,
+,,,Group 7 - 2023,Art and Museum,,,,,
+,,,Group 17 - 2023,Education,,,,,
+,,"Resources expended in relation to the accuracy and completeness with which users achieve their goals, focusing on the time, effort, and cognitive load required by users to interact effectively with the system.",Group 1 - 2023,Urban Mobility,,,,,X
+,,,Group 7 - 2023,Art and Museum,,,,,
+,,,Group 17 - 2023,Education,,,,,
+,,"The degree to which the software product provides appropriate performance, relative to the computational resources (e.g., CPU, memory, storage) used, under stated conditions.",Group 11 - 2023,Agriculture,,X,,,
+,,"The degree to which the software product provides appropriate performance, relative to the financial resources expended, enabling cost reduction, improved ROI, and long-term economic benefits under stated conditions.",Group 11 - 2023,Agriculture,,,,X,
+,Health and Safety Risk,System mitigates the potential risk to people in the intended contexts of use ,Group 1 - 2023,Urban Mobility,[ISO/IEC 25010:2011],,,,X
+,,,Group 17 - 2023,Education,,,,,
+,,"The system includes mechanisms and features to identify, monitor, and mitigate potential risks to people during use in the intended contexts.",Group 1 - 2023,Urban Mobility,[ISO/IEC 25010:2011],X,,,
+,,,Group 17 - 2023,Education,,,,,
+,Resource Utilization,"The amounts and types of energy or natural resources used by the system, when performing its functions, are efficient and meet sustainability requirements.",Group 1 - 2023,Urban Mobility,[ISO/IEC 25010:2011],,X,,
+,,,Group 6 - 2023,Agriculture,"* from the report, or revised ISO",,,,
+,,,Group 17 - 2023,Education,,,,,
+,,"The amounts and types of resources used by the system ensure cost-efficiency, minimize expenses, and support financial sustainability.",Group 1 - 2023,Urban Mobility,[ISO/IEC 25010:2011],,,X,
+,,,Group 6 - 2023,Agriculture,,,,,
+,,,Group 17 - 2023,Education,,,,,
+,,"The optimal use of resources such as water, energy, fertilizers, pesticides, land, and labor, while simultaneously considering the preservation and protection of the environment.",Group 3 - 2023,Agriculture,ISO/IEC 25000,,X,,
+,,"Optimizing the use of resources to enhance economic efficiency, productivity, and profitability while considering the financial aspects of agricultural practices.",,,,,,X,
+,,The degree to which the amounts and types of resources are used by the system with minimal environmental waste and impact.,Group 9 - 2023,Urban Mobility,[ISO 39001:2012],,X,,
+,,"The degree to which the amounts and types of resources are used by the system efficiently, minimizing waste and reducing costs.",,,,,,X,
+,,The sustainable management of irrigation water to minimize waste and preserve water resources.,Group 11 - 2023,Agriculture,ISO/IEC 25000,,X,,
+,Trust,"Refers to the confidence, reliability, and positive expectations that agricultural stakeholders have in the use of digital technologies and data-driven solutions for agricultural practices.",Group 3 - 2023,Agriculture,ISO/IEC 25000,,,,X
+,,"Stakeholders have confidence that a product or system will reliably behave as intended, meeting their expectations and needs.",Group 1 - 2023,Urban Mobility,[ISO/IEC 25010:2011],,,,X
+,,,Group 17 - 2023,Education,,,,,
+,,,Group 9 - 2023,Urban Mobility,,,,,
+,,,Group 7 - 2023,Art and Museum,,,,,
+,,"Stakeholders have confidence that a product or system will perform as intended, based on its reliability and adherence to specifications.",Group 1 - 2023,Urban Mobility,,X,,,
+,,,Group 17 - 2023,Education,,,,,
+,,,Group 9 - 2023,Urban Mobility,,,,,
+,Usefulness,"The degree to which the system effectively supports the achievement of pragmatic goals, ensuring reliable results and consistent performance during use.",Group 1 - 2023,Urban Mobility,[ISO/IEC 25010:2011],X,,,
+,,,Group 7 - 2023,Art and Museum,,,,,
+,,,Group 10 - 2023,Urban Mobility,,,,,
+,,"The degree to which a user is satisfied with their perceived achievement of pragmatic goals, focusing on the personal impact, results of use, and the broader consequences for their work or life.",Group 1 - 2023,Urban Mobility,,,,,X
+,,,Group 7 - 2023,Art and Museum,,,,,
+,,,Group 10 - 2023,Urban Mobility,,,,,
+,Data Privacy,"Data privacy involves implementing robust technical measures, such as encryption, secure storage, and access controls, to protect personal information from unauthorized access, misuse, or breaches.",Group 1 - 2023,Urban Mobility,European Data Protection Supervisor,X,,,
+,,"Data privacy ensures that end-users trust their personal information—such as names, dates of birth, photographs, email addresses, telephone numbers, and IP addresses—is protected from unauthorized access or misuse, fostering confidence in the system and its services.",,,,,,,X
+,,"The degree to which stakeholders trust that personally identifiable information is securely collected, stored, or used without misuse or unauthorized access.",Group 2 - 2023,Art and Museum,European Data Protection Supervisor,,,,X
+,,,Group 8 - 2023,,,,,,
+,,,Group 9 - 2023,Urban Mobility,,,,,
+,,"The degree to which personally identifiable information is protected through technical measures during its collection, storage, or use.",Group 2 - 2023,Art and Museum,[Condori-Fernadez et al. (2020)],X,,,
+,,,Group 8 - 2023,,,,,,
+,,,Group 9 - 2023,Urban Mobility,,,,,
+,,Degree to which the system protects the users privacy,Group 4 - 2023,Art and Museum,,,,,X
+,,The degree to which a system provides robust mechanisms that allow individuals to manage and control the data they loan to organizations.,Group 7 - 2023,,adapted from [GDPR (2018)],X,,,
+,,The degree to which individuals feel confident in their ability to maintain control over the data they loan to organizations.,Group 7 - 2023,,adapted from [GDPR (2018)],,,,X
+,Usability,"Degree to which a system can be used with effectiveness, efficiency and satisfaction in a specified context of use. ",Group 1 - 2023,Urban Mobility,[ISO/IEC 25010:2011],,,,X
+,,"Degree to which a system has attributes that make it intuitive, easy to operate, and control, ensuring users can efficiently achieve their goals",Group 8 - 2023,Art and Museum,,,,,
+,Costs,"The amount of money required to buy, operate, or produce something, highlighting economic value and long-term financial impact.",Group 1 - 2023,Urban Mobility,Cambridge Dictionamy,,,X,
+,Art Digitalization,Degree to which accessible art is digitized in a system. ,Group 2 - 2023,Art and Museum,-,X,,,
+,Security,"Degree to which a system or component prevents unauthorised access to, or modification of, computer programs or data",Group 2 - 2023,Art and Museum,[ISO/IEC 25010:2011],X,,,
+,,The degree to which a system ensures that data are accessible only to those authorised to have access. ,Group 7 - 2023,,,X,,,
+,,,Group 8 - 2023,,,,,,
+,,The degree to which users trust the system to protect their data from unauthorized access.,Group 7 - 2023,,,,,,X
+,,,Group 8 - 2023,,,,,,
+,Carbon Emissions,The degree to which a system contributes to or mitigates carbon dioxide (CO2) emissions during its operation or production processes.,Group 2 - 2023,Art and Museum,-,,X,,
+,,,Group 4 - 2023,,-,,,,
+,,,Group 6 - 2023,Agriculture,[ISO/IEC 25010:2011],,,,
+,Energy Savings,"Energy saving refers to the reduction of energy consumption to minimize environmental impact, including lower CO2 emissions and decreased resource usage.",Group 2 - 2023,Art and Museum,-,,X,,
+,,Energy saving refers to the optimization of system processes and configurations to reduce energy consumption while balancing trade-offs like configurability and scalability.,,,-,X,,,
+,Energy Costs,"Energy costs refer to the financial expenses of energy consumption, which are reduced through energy-saving measures.",Group 2 - 2023,Art and Museum,-,,,X,
+,Configurability,Degree to which a system can perform efficient operations and offer services the way it was intended by their programmers ,Group 2 - 2023,Art and Museum,-,X,,,
+,,"Degree to which a system supports the creation and enablement of new configurations, allowing flexibility and adaptability in its functionality.",Group 7 - 2023,,[Condori-Fernandez et al. (2020)],X,,,
+,,Degree to which a system empowers users to customize functionality and control the delivery of information to meet their needs and preferences. ,,,,,,,X
+,Remote Access,The degree to which a system enables secure and reliable access to its services or products from remote locations.,Group 2 - 2023,Art and Museum,-,X,,,
+,,The degree to which people can effectively and inclusively access a system's services or products from any location.,,,,,,,X
+,Scalability,The degree to which a computing process adapts to diverse workloads while maintaining performance.,Group 2 - 2023,Art and Museum,[Condori-Fernadez et al. (2020)],X,,,
+,,,Group 7 - 2023,,,,,,
+,,,Group 17 - 2023,Education,,,,,
+,,The degree to which a computing process scales cost-effectively across capabilities.,Group 2 - 2023,Art and Museum,[Condori-Fernadez et al. (2020)],,,X,
+,,,Group 7 - 2023,,,,,,
+,,,Group 17 - 2023,Education,,,,,
+,User Experience,"The overall experience of a person using a service or product, particularly in terms of how pleasing it us. ",Group 2 - 2023,Art and Museum,-,,,,X
+,,Degree to which a system is experienced as being user friendly,Group 4 - 2023,,-,,,,
+,Digital Inclusion,The degree to which types of customers are eligible for services offered by a system ,Group 2 - 2023,Art and Museum,-,,,,X
+,,"The degree to which a system is accessible, usable, and respectful of the diverse needs and preferences. ",Group 7 - 2023,,[Software Design (2023)],,,,
+,,The degree to which a system is accessible and usable,,,,X,,,
+,Time Behaviour,How digital solutions influence the timing and efficiency of operational activities throughout the agricultural value chain.,Group 3 - 2023,Agriculture,ISO/IEC 25000,,,X,
+,,"The effects of digital solutions of sustainability, timing, and duration on agricultural activities, in relation to their environmental impact.",,,,,X,,
+,,The degree to which the processing times and throughput rates of a system meet its requirements. ,Group 9 - 2023,Urban Mobility,[ISO/IEC 25010:2011],X,,,
+,,"Degree to which the response, processing times and throughput rates of a system, when performing its functions, meet requirements. ",Group 18 - 2023,Art and Museum,,,,,
+,,Irrigation scheduling aims to achieve an optimum water supply for productivity. ,Group 11 - 2023,Agriculture,,X,,,
+,,Irrigation scheduling ensures efficient water use,,,,,X,,
+,Confidentiality,Degree to which a product or system ensures that data are accessible only to those authorized to have access.,Group 3 - 2023,Agriculture,ISO/IEC 25000,X,,,
+,,,Group 4 - 2023,Art and Museum,[ISO/IEC 25010:2011],,,,
+,,"Entails protecting information from unwanted access, disclosure, or usage in order to protect agricultural workers’ privacy, security, and confidence.",Group 3 - 2023,Agriculture,ISO/IEC 25000,,,,X
+,,"The degree to which sensitive data is protected and accessible only to authorized individuals, fostering user trust.",Group 4 - 2023,Art and Museum,[ISO/IEC 25010:2011],,,,
+,Integrity,"Degree to which a system or component prevents unauthorised access to, or modification of, computer programs or data",Group 3 - 2023,Agriculture,ISO/IEC 25000,X,,,
+,,,Group 4 - 2023,Art and Museum,[ISO/IEC 25010:2011],,,,
+,Availability,"Degree to which a system, product or component is operational and accessible when required for use",Group 3 - 2023,Agriculture,ISO/IEC 25000,X,,,
+,,,Group 4 - 2023,Art and Museum,[ISO/IEC 25010:2011],,,,
+,,The degree to which the price of a product is affordable to its consumers. ,Group 6 - 2023,Agriculture,"Derived from Krukowski et al., 2010",,,,X
+,,Degree to which a system or component is operational and accessible when required for use. ,Group 11 - 2023,Agriculture,[ISO/IEC 25010:2011],X,,,
+,,,Group 17 - 2023,Education,,,,,
+,Learnability,"General: Degree to which a product or system can be used by specified users to achieve specified goals of learning to use the product or system with effectiveness, efficiency, freedom from risk and satisfaction in a specified context of use.
+Social: Includes the capacity to adjust to and absorb knowledge from technological developments, fostering digital literacy and empowering social groups to use digital technologies for better livelihood and agricultural practices.",Group 3 - 2023,Agriculture,ISO/IEC 25000,,,,X
+,,Being able to achieve usage proficiency in a short period of time by users ,Group 11 - 2023,,,,,,
+,Transparency,"General: Degree to which adequate information about the AI system is communicated to stakeholders. Social: Entails providing easy access to pertinent information for all agricultural stakeholders, in order to promote responsibility, trust, and well-informed decision-making.",Group 3 - 2023,Agriculture,ISO/IEC 25000,,,,X
+,,"Making digital tools, information, and resources readily available and user-friendly to empower social groups and promote inclusive and informed participation in agricultural activities and decision-making. ",Group 3 - 2023,Agriculture,ISO/IEC 25000,,,,X
+,Accessibility,"The degree to which a product or system is designed and implemented to support accessibility for people with diverse abilities, ensuring compatibility with assistive technologies and accessibility standards.",Group 3 - 2023,Agriculture,ISO/IEC 25000,X,,,
+,,,Group 7 - 2023,Art and Museum,ISO/IEC 25000,,,,
+,,Degree to which a system can be used by people with the widest range of characteristics and capabilities. ,Group 4 - 2023,Art and Museum,[ISO/IEC 25010:2011],,,,X
+,,,Group 7 - 2023,,,,,,
+,,,Group 8 - 2023,,,,,,
+,,,Group 17 - 2023,Education,,,,,
+,,Degree to which a system can exchange information with other systems and use the information ,Group 5 - 2023,Education,,X,,,
+,Compliance,"Ensuring that all agricultural stakeholders comply with established guidelines and norms to safeguard the rights, privacy, while harnessing the benefits of digital transformation.",Group 3 - 2023,Agriculture,ISO/IEC 25000,,,,X
+,,"The degree to which data adheres to technical standards, conventions, and regulations, ensuring structured, high-quality, and compliant data management within a specific context of use.",Group 3 - 2023,Agriculture,ISO/IEC 25000,X,,,
+,,Degree to which a system allows to draw conclusions about how well the software adheres to application related regulations in laws ,Group 4 - 2023,Art and Museum,[Condori-Fernadez et al. (2020)],X,,,
+,Preservation,"Degree to which a system actively enables the long-term preservation of art, ensuring its accessibility, integrity, and protection.",Group 4 - 2023,Art and Museum,-,,,,X
+,Long-term Preservation,"Strategies employed to ensure the preservation of digitized data, cultural artifacts, and educational materials for future generations. ",Group 5 - 2023,Education,Project Documentation,,,,X
+,,"Long-term preservation refers to the strategies and technologies used to ensure the integrity, accessibility, and durability of digitized data, cultural artifacts, and educational materials over time.",Group 5 - 2023,,,X,,,
+,Output Standard,Degree to which a system output is standarised,Group 4 - 2023,Art and Museum,-,X,,,
+,Value of artwork,Degree to which a system changes the value of an artwork,Group 4 - 2023,Art and Museum,-,,,X,
+,Revenue Stream,Degree to which a system influences the revenue stream,Group 4 - 2023,Art and Museum,-,,,X,
+,Intellectual Property,Degree to which a system protects the intellectual property,Group 4 - 2023,Art and Museum,-,,,X,
+,Profitability,Degree to which a system influences profitability,Group 4 - 2023,Art and Museum,-,,,X,
+,,Financial gain from a transaction or from a period of investment or business activity,Group 7 - 2023,,-,,,X,
+,Engagement,Degree to which a system influences the amount of engagement,Group 4 - 2023,Art and Museum,-,,,,X
+,,"The degree to which indigenous communities engage in digital and economic initiatives, ensuring equitable access to financial opportunities and sustainable economic participation.",Group 5 - 2023,Education,Community Surveys and Participation rates,,,X,
+,,"The degree to which indigenous communities actively participate in shaping digital education policies, cultural preservation, and governance, ensuring their voices are central in decision-making.",Group 5 - 2023,,,,,,X
+,Piracy,Degree to which a system enables piracy,Group 4 - 2023,Art and Museum,-,,,X,
+,Operability,Degree to which a system has attributes that make it easy to operate and control,Group 4 - 2023,Art and Museum,[ISO/IEC 25010:2011],X,,,
+,,,Group 17 - 2023,Education,,,,,
+,User Error Protection,"The degree to which a system prevents, detects, and helps users recover from errors through design and automated safeguards.",Group 4 - 2023,Art and Museum,[ISO/IEC 25010:2011],X,,,
+,,,Group 17 - 2023,Education,,,,,
+,,The degree to which a system reduces user frustration and improves confidence by minimizing errors and supporting recovery.,Group 4 - 2023,Art and Museum,[ISO/IEC 25010:2011],,,,X
+,,,Group 17 - 2023,Education,,,,,
+,Recoverability,"Degree to which, in case of an interruption or a failure, a system can recover the data affected ans re-establish the desired state od the system ",Group 4 - 2023,Art and Museum,[ISO/IEC 25010:2011],X,,,
+,Functional Correctness,"Degree to which a product can perform its required functions efficiently while sharing a common environment and resources with other products, without detrimental impact on any other product. ",Group 5 - 2023,Education,[ISO/IEC 25010:2011],X,,,
+,,Degree to which a product or system provides the correct results with the needed degree of precision. ,Group 10 - 2023,Urban Mobility,,,,,
+,,,Group 17 - 2023,Education,,,,,
+,Usability,"he degree to which a system is designed to enable effective, efficient, and satisfying task completion through optimized functionality and performance.",Group 5 - 2023,Education,[ISO/IEC 25010:2011],X,,,
+,,,Group 7 - 2023,Art and Museum,,,,,
+,,"The degree to which users can complete tasks effectively, efficiently, and with satisfaction, ensuring an intuitive and inclusive experience.",Group 5 - 2023,Education,,,,,X
+,,,Group 7 - 2023,Art and Museum,,,,,
+,Cultural Sensitivity,The degree to which digital systems are designed to preserve and adapt to indigenous cultural nuances.,Group 5 - 2023,Education,Project Documentation,X,,,
+,,The degree to which digital systems respect and represent indigenous cultural values and traditions.,,,,,,,X
+,Equal Access,"Ensuring digital infrastructure supports equal access in both urban and remote areas, bridging connectivity gaps.",Group 5 - 2023,Education,Project Implementation Reports,X,,,
+,,"Ensuring digital resources are equally accessible in all regions, reducing geographic barriers and promoting digital inclusion.",,,,,,,X
+,Economic Risk ,System mitigates the potential risk to financial status in the intended contexts of use,Group 6 - 2023,Agriculture,[ISO/IEC 25010:2011],,,X,
+,,,Group 18 - 2023,Art and Museum,,,,,
+,,The degree to which a system mitigates the potential financial risk. ,Group 9 - 2023,Urban Mobility,,,,,
+,,"The case where the distribution of outcomes is known either a priori or statistically through experience, and uncertainty as the case where probabilities can not be quantified. ",Group 11 - 2023,Agriculture,,,,,
+,Capacity,"The degree to which a system or product meets its maximum workload, storage, or processing limits while maintaining functionality.",Group 6 - 2023,Agriculture,[ISO/IEC 25010:2011],X,,,
+,,,Group 18 - 2023,Art and Museum,,,,,
+,Water Security,Water security ensures sufficient water quality and quantity to sustain ecosystems and biodiversity without compromising long-term environmental sustainability.,Group 6 - 2023,Agriculture,"Derived from Pachova et al., 2008.",,X,,
+,,"Water security guarantees access to safe and sufficient water for human health, livelihoods, and national well-being, ensuring equitable distribution and resilience.",,,,,,,X
+,Co-existence,Co-exist with the immediate and global environment by using and managing land and soil sustainably. ,Group 6 - 2023,Agriculture,Derived from UNSDG no. 2,,X,,
+,,The degree to which a product operates in a shared environment while minimizing resource consumption and environmental impact.,Group 11 - 2023,Agriculture,[ISO/IEC 25010:2011],,X,,
+,,,Group 18 - 2023,Art and Museum,,,,,
+,,"The degree to which a product functions efficiently in a shared environment, ensuring compatibility and optimal resource use without disrupting other products.",Group 11 - 2023,Agriculture,[ISO/IEC 25010:2011],X,,,
+,,,Group 18 - 2023,Art and Museum,,,,,
+,Health and Safety Risk Mitigation,System mitigates the potential risk to people in the intended contexts of use.,Group 6 - 2023,Agriculture,[ISO/IEC 25010:2011],,,,X
+,Data Protection,"The degree to which a system protects personal data while ensuring transparency, user control, and privacy rights.",Group 7 - 2023,Art and Museum,Adapted from [European Union Law (2016)],,,,X
+,,"The degree to which a system securely processes, stores, and manages personal data, ensuring compliance with legal and technical standards.",,,,X,,,
+,Digital Loans,the ability for a system to provide digitised materials in a collection available for lending ,Group 7 - 2023,Art and Museum,Adapted from [Sheppard (2018)],X,,,
+,Copyright,"The ability for an organization to protect and manage exclusive rights over digitized artifacts using digital security measures, access controls, and copyright enforcement technologies.",Group 7 - 2023,Art and Museum,Adapted from [GDPR (2001)],X,,,
+,,"The ability for an organization to enforce exclusive rights over owned digitized artifacts, allowing control over their licensing, distribution, and commercial use.",,,,,,X,
+,Flexibility,The degree to which a system can be used in contexts beyond those initially specified in the requirements.,Group 7 - 2023,Art and Museum,[ISO/IEC 25010:2011],X,,,
+,,The degree to which a system's flexibility reduces redevelopment costs and increases return on investment by supporting new use cases efficiently.,Group 18 - 2023,,,,,X,
+,(Reduction of) Software Waste,The degree to which a system minimizes resource consumption and digital waste by optimizing processes for sustainability.,Group 7 - 2023,Art and Museum,[Condori-Fernadez et al. (2020)],,X,,
+,(Reduction of) Landfill Waste ,The degree to which a system minimizes physical material consumption and prevents landfill waste through sustainable alternatives and resource efficiency.,Group 7 - 2023,Art and Museum,-,,X,,
+,,"The degree to which a system optimizes material use to reduce costs and waste disposal expenses, promoting sustainable resource management.",,,-,,,X,
+,Optimisation,"The ability to improve system efficiency by eliminating redundant tasks and optimizing processes for better performance, automation, and resource utilization.",Group 7 - 2023,Art and Museum,-,X,,,
+,Historical Archiving,"The process of systematically storing, managing, and preserving historical records using digital or physical infrastructure to ensure long-term integrity, accessibility, and protection against data loss.",Group 7 - 2023,Art and Museum,-,X,,,
+,,"The preservation of historical records and cultural artifacts to safeguard collective memory, support education, and ensure accessibility for future generations.",,,-,,,,X
+,Personalisation,The degree to which a user or stakeholder can tailor their experience of a system to their linking,Group 7 - 2023,Art and Museum,-,,,,X
+,,"The ability of a system to adjust its interface and features based on user preferences using AI, configurable settings, and adaptive design.",,,-,X,,,
+,Tech Literacy,"The ability to access, manage, understand, integrate, communicate, evaluate and create information safely and appropriately through digital technologies",Group 7 - 2023,Art and Museum,[UNESCO (2018)],X,,,
+,,"The ability to leverage digital skills for job opportunities, economic participation, and improved productivity in a technology-driven market.",,Art and Museum,,,,X,
+,,"The ability to engage with digital technologies responsibly, ensuring equitable access, inclusion, and safe interaction in the digital world.",,Art and Museum,,,,,X
+,(Unlocking) Creativity,"The ability to discover new and original ideas, innovations, connections, and solutions to problems by users",Group 7 - 2023,Art and Museum,-,,,,X
+,Education,The act of acquiring knowledge through a learning process,Group 7 - 2023,Art and Museum,-,,,,X
+,Interactivity,The extent to which users can participate in modifying the format and content of a mediated environment in real time. ,Group 8 - 2023,Art and Museum,[Yuping Liu & L. J. Shrum. (2013)],,,,X
+,Reliability,"Degree to which, in case of an interruption or a failure, a system can recover the data affected and re-establish the desired state of the system",Group 8 - 2023,Art and Museum,[ISO/IEC 25010:2011],X,,,
+,User Satisfaction,"Degree to which a user is satisfied with their perceived achievement of pragmatic goals, including the results of use and the consequences of use. ",Group 8 - 2023,Art and Museum,[ISO/IEC 25010:2011],,,,X
+,Compatability,"Degree to which a product can perform its required functions efficiently while sharing a common environment and resources with other products, without detrimental impact on any other product. ",Group 8 - 2023,Art and Museum,[ISO/IEC 25010:2011],X,,,
+,User Feedback,User feedback is a reaction of the user upon her experience in using a software service or application. It contains meaningful information with the purpose of suggesting improvements. ,Group 8 - 2023,Art and Museum,[Morales-Remirez et al. (2015)],,,,X
+,Performance Efficiency,Degree to which the maximum limits of a product or system parameter meet requirements. ,Group 8 - 2023,Art and Museum,[ISO/IEC 25010:2011],X,,,
+,Stability,Degree to which a system or component is continuously operational and is accessible when needed. ,Group 9 - 2023,Urban Mobility,[ISO/IEC 25010:2011],X,,,
+,,"The ability of a system to integrate with existing products and infrastructure, reducing costs related to maintenance, upgrades, and inefficiencies caused by incompatibility.",,,,,,X,
+,Fault Tolerance,The degree to which a system can operate as it should despite the presence of faults in the hardware or software,Group 9 - 2023,Urban Mobility,[ISO/IEC 25010:2011],X,,,
+,Adaptability,"The degree to which a system can effectively be adapted for different hardware, software or other environments. ",Group 9 - 2023,Urban Mobility,[ISO/IEC 25010:2011],X,,,
+,,Degree to which the capability of a system can efficiently adjust their operations and functions in response to changing conditions. ,Group 11 - 2023,Agriculture,,X,,,
+,Environmental Risk Mitigation,The degree to which a system mitigates the potential environmental risk,Group 9 - 2023,Urban Mobility,[ISO/IEC 25010:2011],,X,,
+,,,Group 18 - 2023,Art and Museum,,,,,
+,Crowd Density,The degree to which a system mitigates the potential risk that arises from overcrowding or from having too many users. ,Group 9 - 2023,Urban Mobility,[ISO/IEC 25010:2011],,,,X
+,Affordability,"The ability of a product to integrate seamlessly with existing systems, reducing costs associated with maintenance, upgrades, and inefficiencies caused by incompatibility.",Group 9 - 2023,Urban Mobility,[ISO 37154:2017],,,X,
+,,"The extent to which a system ensures accessibility and ease of integration for diverse users and organizations, promoting inclusivity and reducing technological barriers.",,,,,,,X
+,,The state of being cheap enough for people to be able to buy,Group 10 - 2023,Urban Mobility,"Cambridge, 2023",,,X,
+,Mobility,"The extent to which a system provides reliable and efficient infrastructure, technology, and services that enable seamless movement and commuting.",Group 9 - 2023,Urban Mobility,[ISO/IEC TR 29181-4:2013],X,,,
+,,"The degree to which individuals have equitable and inclusive access to transportation, ensuring freedom of movement for all members of society.",Group 9 - 2023,Urban Mobility,[ISO/IEC TR 29181-4:2013],,,,X
+,Environmental efficiency,Resources expended in relation to the accuracy and completeness ,Group 10 - 2023,Urban Mobility,[ISO/IEC TR 29181-4:2013],,X,,
+,Pleasure,Degree to which a user obtains pleasure from fulfilling their personal needs. ,Group 10 - 2023,Urban Mobility,[ISO/IEC 25010:2011],,,,X
+,Modifiability,Degree to which a product or system can be effectively and efficiently modified without introducing defects or degrading existing product quality. ,Group 10 - 2023,Urban Mobility,[ISO/IEC 25010:2011],X,,,
+,,,Group 18 - 2023,Art and Museum,,,,,
+,Functional appropriateness,Degree to which the functions facilitate the accomplishment of specified tasks and objectives. ,Group 11 - 2023,Agriculture,[ISO/IEC 25010:2011],X,,,
+,,,Group 18 - 2023,Art and Museum,,,,,
+,Reusability,"Retain the functionality of the material and product, and achieve potentially large reductions in material use and environmental impacts. ",Group 11 - 2023,Agriculture,,,X,,
+,,"The extent to which an asset can be reused across multiple systems, reducing resource consumption, waste, and environmental impact by minimizing the need for new developments.",Group 18 - 2023,Art and Museum,[ISO/IEC 25010:2011],,,,
+,,"The ability of an asset to be repurposed in different systems or for building other assets, lowering development costs, improving efficiency, and maximizing return on investment.",,,,,,X,
+,Productivity,"The degree to which output for a system is maximized relative to input, reflecting efficiency and effectiveness in achieving desired economic results. ",Group 11 - 2023,Agriculture,,,,X,
+,Fertilization,The process of using nutrients to support the growth and development of organisms in an environment. ,Group 11 - 2023,Agriculture,,,X,,
+,Testability,Degree of effectiveness and efficiency with which test criteria can be established for a system. ,Group 18 - 2023,Art and Museum,[ISO/IEC 25010:2011],X,,,
+,Functional completeness,The extent to which a system includes all required functions necessary to perform specified tasks effectively.,Group 18 - 2023,Art and Museum,[ISO/IEC 25010:2011],X,,,
+,,"The ability of a system to provide complete functionality from the start, reducing the need for costly modifications, updates, and inefficiencies.",,,,,,X,
+,,"The extent to which a system meets all user needs and accessibility requirements, ensuring a seamless and satisfactory user experience.",,,,,,,X
+,Testability,Degree of effectiveness and efficiency with which test criteria can be established for a system. ,Group 18 - 2023,Art and Museum,[ISO/IEC 25010:2011],X,,,
+,,,,,,,,,
+2024,Efiiciency,"The degree to which user goals are achieved with minimal cost and energy consumption, reducing both operational expenses and environmental impact.",Group 2024-1000,Healthcare,[ISO/IEC 25010:2011],,X,X,
+,,,Group 2024-1600,Digital Local Communities,,,,,
+,,,Group 2024-9400,Urban Agriculture,,,,,
+,,,Group2024-9500,Public Transport,,,,,
+,,"The extent to which a system performs its functions using minimal computational resources, time, and effort while maintaining accuracy",Group 2024-1000,Healthcare,,X,,,
+,,,Group 2024-1600,Digital Local Communities,,,,,
+,,,Group 2024-9400,Urban Agriculture,,,,,
+,,,Group2024-9500,Public Transport,,,,,
+,,The ratio of the useful work performed by a machine or in a process to the total energy expended or heat taken in. ,Group 2024-1500,Waste Management,,X,,,
+,,Efficiency of both individual vehicles and the system as a whole,Group 2024-1700,Urban Mobility,,,,,
+,,"The degree to which the amounts and types of resources used by a system, when performing its functions, meet requirements. ",Group 2024-9310,Digital Local Communities,,,,,
+,,The platform's ability to provide services using minimal resources and time.,Group 2024-9330,,ISO 25010,,,,
+,,The ability of a system to minimize energy consumption while maintaining performance. ,Group 2024-1100,Healthcare,[ISO/IEC 25010:2011],,X,,
+,,Extend to which the system minimizes energy consumption and emissions ,Group 2024-2100,"Concerts, Musical festivals and Public events",[IEEE 1680.1-2018],,,,
+,,"The ability to use less energy to perform the same task or produce the same outcome, thereby reducing energy waste",Group 2024-1100,Healthcare,IEA (2011),X,,,
+,,Resouces expended in relation to the accuracy and completeness with which user achieve their goals. ,Group 2024-9100,"Concerts, Musical festivals and Public events",[S-Cube Quality Reference Model (2012)],X,,,
+,,Reducing the energy consumption of platform and delivery operations.,Group 2024-9330,Digital Local Communities,SAF Toolkit,,X,,
+,Functional appropriateness,"The degree to which a system’s functions reduce manual effort, streamline processes, and lower operational costs by enabling efficient task completion.",Group 2024-1000,Healthcare,[ISO/IEC 25010:2011],,,X,
+,,The extent to which a system’s functions support users in completing their tasks accurately and effectively.,,,,X,,,
+,Accessibility,The degree to which a system can be used by people with the widest range of characteristics and capabilities,Group 20241000,Healthcare,[ISO/IEC 25010:2011],,,,X
+,,The degree to which a product or system is accessible to a wide range of users,Group 20241200,Education,,,,,
+,,,Group 20249310,Digital Local Communities,,,,,
+,,It defines whether the service is capable of serving requests. Note that while many services are ready to use they might not be. ,Group 20249100,"Concerts, Musical festivals and Public events",[S-Cube Quality Reference Model (2012)],,,,
+,,The extended to which local communities can access and use the digital platform effectively.,Group 20249330,Digital Local Communities,Adapted from SAF Toolkit,,,,
+,,degree to which a system can be used by the people with the widest range of characteristics and capabilities  ,Group 20249400,Urban Agriculture,simplified from [ISO/IEC 25010:2011],,,,
+,Resource Utilization,"Degree to which the amounts and types of resources used by a system, when performing its functions, meet requirements and minimizes energy and material consumption to reduce its environmental impact during operation. ",Group 20241000,Healthcare,[ISO/IEC 25010:2011],,X,,
+,,,Group 20249400,Urban Agriculture,,,,,
+,,"The extent to which a system uses computational resources such as memory, processing power, and storage while performing its functions.",Group 20241000,Healthcare,,X,,,
+,,,Group 20249400,Urban Agriculture,,,,,
+,,Ensures load distribution during peak/off-peak to avoid overload and optimize performace. ,Group 20241400,Urban Mobility,,X,,,
+,Functional Correctness,Degree to which a system provides the correct results with the needed degree of precision,Group 20241000,Healthcare,[ISO/IEC 25010:2011],X,,,
+,,,Group 20249400,Urban Agriculture,simplified from [ISO/IEC 25010:2011],,,,
+,Time Behaviour,"The extent to which a system’s response, processing times, and throughput are optimized to reduce unnecessary energy consumption and support sustainable operation.",Group 20241000,Healthcare,[ISO/IEC 25010:2011],,X,,
+,,,Group 20249400,Urban Agriculture,,,,,
+,Data Privacy,"Degree to which the collection, storage, or use of personally identifiable information is protected",Group 20241000,Healthcare,[Condori-Fernadez et al. (2020)],,,,X
+,,"Ensures that personally identifiable information of users is securely collected, stored, and utilized, aligning with privacy regulations",Group 20241400,Urban Mobility,,X,,,
+,,Concerns related to the protection of sensitive farm data when using remote systems and IoT devices,Group 20242300,Urban Agriculture,"Lowenberg-DeBoer & Erickson, 2019",,,,X
+,,The ability to ensure users' personal data is protected and kept confidential.,Group 20249330,Digital Local Communities,ISO 25010,X,,,
+,Usability,Degree of how easy this system for specific users to achieve certain goals. ,Group 20241100,Healthcare,[ISO/IEC 25010:2011],,,,X
+,,"The extend to which the system meets user needs effectively, efficiently, and pleasantly",Group 20242100,"Concerts, Musical festivals and Public events",[ISO/IEC 25022:2016],,,,
+,Carbon Emission,The amount of carbon dioxide (CO2) or other greenhouse gases emitted by the process from raising per health issue to resolving and follow-up nutritional support over a period of time ,Group 20241100,Healthcare,[ISO/IEC 25010:2011],,X,,
+,Economic Risk,Potential for financial loss caused by for example data leakage in a project ,Group 20241100,Healthcare,[ISO/IEC 25010:2011],,,X,
+,,Ensure pricing remains affordable for lower income users while ensuring financial sustainability. ,Group 20241400,Urban Mobility,,,,,
+,,Ensure pricing supports access for low-income and underserved groups.,,,,,,,X
+,Maintainability,"The ease with which a software system can be modified to correct faults, the difficulty to maintain the system",Group 20241100,Healthcare,[ISO/IEC 25010:2011],X,,,
+,,Ease with which the system can be updated or repaired without downtime. ,Group 20242100,"Concerts, Musical festivals and Public events",[IEEE 14764-2006],,,,
+,,The degree to which a system can be restored to operational status with speed and ease in the event of failure,Group 20249310,Digital Local Communities,Adapted from [Gaonkar and Verlekar (2021)],,,,
+,,Ease of updating and managing platform functions and features.,Group 20249330,,ISO 25010,,,,
+,,,Group 20241700,Urban Mobility,[ISO/IEC 25010:2011],,,,
+,Complexity,The difficulty to achieve the way to store information in a system,Group 20241100,Healthcare,[ISO/IEC 25010:2011],X,,,
+,Energy Consumption,Degree to which the amounts of energy used by a software product or infrastructure when performing its functions meet requirements. ,Group 20241200,Education,Coral Calero et al. 2024,,X,,
+,,"The energy required to operate farming systems and tools, contributing to operational costs and environmental technologies. ",Group 20242300,Urban Agriculture,"Smith et al, 2014",,,,
+,Energy Cost,"The monetary expense incurred by buildings, systems, devices, or processes in an institution over a specific period",Group 20241200,Education,,,,X,
+,,"Energy costs refer to the expenses associated with obtaining and using heating, such as heating, such as the cost of fuel oil, gas and coal. ",Group 20241500,Waste Management,IGI Global,,,,
+,,Expenses borne by the Curators which can be associated to the utility costs to power on and cool down the devices ,Group 20242400,Art & Museum,,,,,
+,Green Schools,A school where the community works together to support global sustainability and climate action ,Group 20241200,Education,Center for Green Schools (2023),,X,,
+,Carbon Footprint,The measure of the total amount of carbon dioxide (CO2) and methane (CH4) emissions attributable to a system ,Group 20241200,Education,"Extended from [Wikipedia, Carbon footprint]",,X,,
+,,"The total amount of greenhouse gases produced to directly and indirectly support human activities, usually expresses in equivalent tons of carbon dioxide (CO2)",Group 20241500,Waste Management,,,,,
+,,"The total amount of greenhouse gases (including carbon dioxide and methane) that are generated by a defined population, system or activity ",Group 20241600,Digital Local Communities,,,,,
+,,Greenhouse Gases (GHG) emitted by all stakeholders in the vicinity of the gallery and/or while participating in the digitalization journey ,Group 20242400,Art & Museum,Greenhouse Gas Protocol set by World Resources Protocol,,,,
+,,Total of all the greenhouse gases emitted or removed in the processes associated with the extraction production transportation to site. ,Group 20249100,"Concerts, Musical festivals and Public events",[ISO/IEC 6707-3:2022],,,,
+,,Measurement of CO2 emissions associated with digital and delivery operations. ,Group 20249330,Digital Local Communities,Adapted from SDG indicators,,,,
+,,The environmental impact of system operations and logistics,Group 20249700,Urban Agriculture,,,,,
+,Access to Funding,"The availability of financial resources for institutions, educators and students, which comes from various sources, including government budgets, private investments, non-governmental organizations and international grants. ",Group 20241200,Education,,,,X,
+,Cost of Implementation,"The total financial outlay required to establish, upgrade, or maintain physical infrastructure or a software product in institutions",Group 20241200,Education,,,,X,
+,Scalability,The degree to which the system can handle increasing workloads by expanding its resources,Group 20241200,Education,ISO/IEC 25002:2024,X,,,
+,,"Ability of the charging system to scale up or down efficiently to meet changing demands, ensuring future-proofing of the infrastructure. ",Group 20241400,Urban Mobility,ISO/IEC 25010:2011,,,,
+,,The capability of increasing the computing capacity of service provider's computer system and system's ability to process more. ,Group 20249100,"Concerts, Musical festivals and Public events",[S-Cube Quality Reference Model (2012)],,,,
+,,The capacity of the e-commerce platform to handle increasing number of users and transactions without performance loss.,Group 20249330,Digital Local Communities,SAF Toolkit,,,,
+,,the system's ability to handle growing number of users and transactions,Group 20249700,Urban Agriculture,,,,,
+,,the ability to scale the digital museum's infrastructure to handle increasing numbers of users or artefact uploads without sacrificing performance,Group 2024 - 6,Art & Museum ,adapted from [Condori-Fernandez et al. (2020)],,,,
+,Portability,The capability of a software product or infrastructure to be transferred from one environment to another,Group 20241200,Education,ISO/IEC 25002:2024,X,,,
+,System Upgradability,The ability of a system to be improved or expanded,Group 20241200,Education,,X,,,
+,Authentication Justice,"The fairness and transparency of processes involved in verifying an individuals identity, credentials, or access rights within a system",Group 20241200,Education,,,,,X
+,Educational Equity,"The principle of fairness in education, ensuring that every student can achieve their educational potential regardless of their personal or social circumstances",Group 20241200,Education,"OECD, Education Equity",,,,X
+,Cybersecurity and data privacy,"Degree to which data can be collected, stored, processed, and shared in a way that ensures individuals privacy is respected ",Group 20241200,Education,ISO/IEC 25002:2024,X,,,
+,Compatibility,"The ability of the charging infrastructure to operate reliably and without conflict alongside other urban systems, such as smart grids or public utilities",Group 20241400,Urban Mobility,ISO/IEC 25010:2011,X,,,
+,,The extent to which the charging infrastructure shares resources with other systems in a way that minimizes energy waste and environmental impact,Group 20241400,Urban Mobility,ISO/IEC 25010:2011,,X,,
+,,"Ensures that the charging system can exchange information and work seamlessly with other systems, such as different EV models and payment gateways. ",Group 20241400,Urban Mobility,ISO/IEC 25010:2011,X,,,
+,,The degree to which systems exchange information with each other and utilize the information,Group 20249310,Digital Local Communities,,,,,
+,Context Completeness,Ensure the system functions reliably across various urban contexts and infrastructure conditions,Group 20241400,Urban Mobility,ISO/IEC 25010:2011,X,,,
+,,Ensure the system meets diverse user needs and provides equitable access to charging services in all urban areas,,,,,,,X
+,Flexibility,"Degree to which the system can be used beyond initial specified contexts, adapting to different user and environmental needs. ",Group 20241400,Urban Mobility,ISO/IEC 25010:2011,X,,,
+,Environmental Risk Mitigation,Shifts load to off-peal times to balance grid load and mitigate environmental impact,Group 20241400,Urban Mobility,ISO/IEC 25010:2011,,X,,
+,,Degree to which a system mitigates the potential risk to property or the environment in the intended contexts of use,Group 20249200,Public Events,,,,,
+,Health and Safety risk,Ensures the charging stations operate safely by minimizing technical faults and system-related hazards,Group 20241400,Urban Mobility,ISO/IEC 25010:2011,X,,,
+,,"Protects users from harm during charging, promoting trust and physical safety in public spaces",,,,,,,X
+,Functional Appropriateness,"The functions of the charging system facilitate the accomplishment of specified tasks, such as easy booking and payment processes. ",Group 20241400,Urban Mobility,ISO/IEC 25010:2011,X,,,
+,Modifiability,"The degree to which the system can be effectively maintained and updated by technicians, ensuring long-term usability and reliability",Group 20241400,Urban Mobility,ISO/IEC 25010:2011,X,,,
+,,The degree to which a product or system can be effectively and efficiently modified without introducing defects or degrading existing product quality,Group 20249310,Digital Local Communities,,,,,
+,,,Group 20249400,Urban Agriculture,,,,,
+,,The ease with which the platform can adapt to new requirements and technologies. ,Group20249330,Digital Local Communities,SAF Toolkit,,,,
+,Testability,"Effectiveness and efficiency with which test criteria can be established for a system, ensuring smooth upgrades and expansions. ",Group 20241400,Urban Mobility,ISO/IEC 25010:2011,X,,,
+,Adaptability,"The system's ability to effectively adapt to new environments, software updates, or evolving user needs without extensive modifications. ",Group 20241400,Urban Mobility,ISO/IEC 25010:2011,X,,,
+,Availability,"Ensures that the EV charging system is operational and accessible whenever users need it, contributing to reliability and user convenience. ",Group 20241400,Urban Mobility,ISO/IEC 25010:2011,,,,X
+,,,Group 20249400,Urban Agriculture,,,,,
+,,Degree to which a system or component is operational and accessible when required for use,Group 20249200,Public Events,,X,,,
+,,,Group 20249310,Digital Local Communities,,,,,
+,,,Group 20249400,Urban Agriculture,,,,,
+,,,,,,,,,
+,,"The system ensures that digital collections and exhibits are always available to users, ensuring continuous global access",Group 2024 - 6,Art & Museum ,Simplifide from [ISO/IEC 25010:2011],X,,,
+,Fault Tolerance,"The system's ability to continue functioning correctly despite the presence of faults, ensuring minimal disruptions to users",Group 20241400,Urban Mobility,ISO/IEC 25010:2011,,,,X
+,,,,,,X,,,
+,Integrity,Ensures the EV charging system remains consistently operational and performs reliably when needed,Group 20241400,Urban Mobility,ISO/IEC 25010:2011,X,,,
+,,"Ensures the charging system is easily accessible to all users, promoting convenience and equitable access across different communities",,,,,,,X
+,Operability,"Usera can easily locate and book charging slots, enhancing user experince. ",Group 20241400,Urban Mobility,ISO/IEC 25010:2011,,,,X
+,,The degree to which a system has attributes that make it easy to operate and control,Group 20249310,Digital Local Communities,,,,,
+,,,Group 20249400,Urban Agriculture,,,,,
+,Learnability,The degree to which users can learn to operate the charging system effectively ensuring ease of use ,Group 20241400,Urban Mobility,ISO/IEC 25010:2011,,,,X
+,Interopability,"Degree to which a system, product or component can exchange information with other products and mutually use the information that has been exchanged. ",Group 20241500,Waste Management,ISO/IEC 25010:2011,X,,,
+,,Degree to which a system can exchange information and operate with other system ,Group 20242100,"Concerts, Musical festivals and Public events",Adapted from [IEEE 610.12-1990],,,,
+,Pollution,The presence or introduction into the environment of substances or contaminants that cause harm or discomfort to living organisms or damage the environment. ,Group 20241500,Waste Management,United Nations Environment Programme (UNEP),,X,,
+,Economic Viability,"The term 'economically viable' is used to describe a project that provides an overall positive net economic contribution to society after all costs and benefits have been accounted for. this includes social, environmental and financial costs and benefits to society. ",Group 20241500,Waste Management,Hydropower Sustainability Guidelines,,,X,
+,Fuel Consumption,"The quality of fuel used by a system, vehicle, or process over a specific period or distance, usually measured in liters per 100 kilometers or miles per gallon ",Group 20241500,Waste Management,U.S. Department of Energy (DOE),,,X,
+,Operational Costs,"The expenses associated with the day-to-day functioning of a business, system, or facility, including maintenance, utilities, and staffing. ",Group 20241500,Waste Management,[ISO 15686-5:2017],,,X,
+,Public Awareness,"The level of understanding and knowledge among the general public about a particular issue or set of issues, often influencing attitudes and behaviors",Group 20241500,Waste Management,"United Nations Educational, Scientific and Cultural Organization (UNESCO)",,,,X
+,Reusability,"Degree to which a system, product, or component can be used again in different applications or environments without modification conforms to the correct value or a standard. ",Group 20241500,Waste Management,[ISO/IEC/IEEE 24765:2010],,X,,
+,Accuracy,"Degree to which the result of a measurement, calculation, or specification conforms to the correct value or a standard. ",Group 20241500,Waste Management,Oxford Languages,X,,,
+,,Accuracy ensures that all information processed and prese,Group 20249330,Digital Local Communities,SAF Toolkit,,,,
+,Public Health,"The science and practice of protecting and improving the health of a population through preventive measures, education, and the promotion of health lifestyle. ",Group 20241500,Waste Management,CDC Foundation,,,,X
+,Contamination Level,Concentration of harmful substances or pollutants present in an environment or material. ,Group 20241500,Waste Management,Environmental Protection Agency (EPA),,X,,
+,Sustainability,Avoidance of the depletion of natural resources in order to maintain an ecological balance. ,Group 20241500,Waste Management,Oxford Languages,,X,,
+,,"The ability of digital e-commerce operations to minimize environmental impacts, especially through sustainable delivery. ",Group 20249330,Digital Local Communities,SAF Toolkit,,,,
+,Energy Saving,Reduction in energy consumption resulting from the implementation of efficiency measures or the adoption of new technologies. ,Group 20241500,Waste Management,International Energy Agency (IEA),,X,,
+,Public Space,"An area or place that is open and accessible to all people, regardless of gender, race, ethnicity, age, or socioeconomic level. ",Group 20241500,Waste Management,NU-Habitat,,,,X
+,Usefulness,The extent to which the system effectively supports users in achieving their intended tasks and goals through its functionality.,Group 20241600,Digital Local Communities,ISO/IEC 25010:2011,X,,,
+,,"The extent to which users feel satisfied and supported in their goals, considering both the outcomes and impact of using the system in their context.",Group 20249310,,,,,,X
+,Costs,"The value of money that has been used up to produce something. deliver a service, or purchase something. ",Group 20241600,Digital Local Communities,ISO/IEC 25010:2011,,,X,
+,,Impact of the public transport budget,Group 20241700,Urban Mobility,,,,,
+,,The financial burden incurred in maintaining or upgrading farming technologies. ,Group 20242300,Urban Agriculture,"Lowenbreg-DeBoer & Erickson, 2019",,,,
+,,The degree to which a system mitigates the potential risk to financial status in the intended contexts of use,Group 20249310,Digital Local Communities,ISO/IEC 25010:2011,,,,
+,,The overall expenses associated with maintaining and operating the digital platform. ,Group 20249330,,SAF Toolkit,,,,
+,,"the amount of the money that is needed to design, build and implement the system",Group 20249500,Public Transport,,,,,
+,Convenience,A quality or situation that makes something easy or useful for someone by reducing the amount of work or time required to do something ,Group 20241600,Digital Local Communities,ISO/IEC 25010:2011,,,,X
+,Knowledge Sharing,"An activity through which knowledge (namely, information, skills, or expertise) is exchanged among local communities",Group 20241600,Digital Local Communities,ISO/IEC 25010:2011,,,,X
+,Social Cohesion,The extend of connectedness and solidarity among local communities,Group 20241600,Digital Local Communities,ISO/IEC 25010:2011,,,,X
+,Recycling rate,"The percentage of waste materials that are successfully separated, collected, and processed for reuse, relative to the total waste produced ",Group 20241600,Digital Local Communities,ISO/IEC 25010:2011,,X,,
+,Tax Cost,"The monetary expense incurred by community residents based on the volume or weight of waste they generate, which is determined using weight sensors as part of the community's waste",Group 20241600,Digital Local Communities,ISO/IEC 25010:2011,,,X,
+,Cost (Maintainability),The money used during the repair or the maintenance events ,Group 20241600,Digital Local Communities,ISO/IEC 25010:2011,,,X,
+,Reliability,"Degree to which the system, including components like automated waste sorting, card authentication, and sensor-based technologies, is operational and accessible when needed, continues to function correctly despite faults, and is consistently optimized and tested to meet reliability needs. It also encompasses the system's ability to recover data and re-establish its desired state after failures. ",Group 20241600,Digital Local Communities,ISO/IEC 25010:2011,X,,,
+,,The extent to which the system remains consistently operational and available for use without unexpected downtime or failure.,Group 20241700,Urban Mobility,,,,,
+,,Ability of the system to consistently provide accurate and timely information,Group 20242100,"Concerts, Musical festivals and Public events",[ISO/IEC 25024:2015],,,,
+,,how consistently the system delivers services without failure,Group20249700,Urban Agriculture,,,,,
+,Retailers' sales revenue,The total income that retailers team from selling goods or services to consumers over a specific period. This revenue reflects the value of all completed expenses such as operating costs or taxes. ,Group 20241600,Digital Local Communities,ISO/IEC 25010:2011,,,X,
+,Safety,Overall safety of passengers,Group 20241700,Urban Mobility,ISO/IEC 25010:2011,,,,X
+,Digital Inclusion,Availability of services for the digitally challenged ,Group 20241700,Urban Mobility,ISO/IEC 25010:2011,,,,X
+,Environmental impact,Impact of the features on the environment,Group 20241700,Urban Mobility,ISO/IEC 25010:2011,,X,,
+,Satisfaction,Passenger opinion of the services ,Group 20241700,Urban Mobility,ISO/IEC 25010:2011,,,,X
+,,Degree to which a user is satisfied with their perceived achievement or pragmatic goals in regards to brand-name recognition. ,Group 20249200,Public Events,,,,,
+,,Degree of user satisfaction  with the digital shopping experience provided by local businesses,Group 20249330,Digital Local Communities,ISO 25010,,,,
+,Cost Efficiency,System's ability to save costs by automating tasks and reducing manual intervention,Group 20242100,"Concerts, Musical festivals and Public events",[IEEE 730-2014],,,X,
+,Technical Scalability,Capability to handle increase use load or traffic without performance degradation,Group 20242100,"Concerts, Musical festivals and Public events",[ISO/IEC 25012:2008],X,,,
+,Economic Scalability,Ability to increase capacity without significant increase in operational costs,Group 20242100,"Concerts, Musical festivals and Public events",[ISO/IEC 25012:2008],,,X,
+,Inclusive accessibility,"Ease of use for all users, including those with disabilities, ensuring inclusiveness",Group 20242100,"Concerts, Musical festivals and Public events",[WCAG 2.1 Guidelines],,,,X
+,Environmental Accessibility,"System's ability to provide clear navigation, minimizing unnecessary travel and emissions. ",Group 20242100,"Concerts, Musical festivals and Public events",[ISO 14001:2015],,X,,
+,Social Security,"protection of users' privacy and data, ensuring trust in digital transactions. ",Group 20242100,"Concerts, Musical festivals and Public events",[NIST SP 800-53],,,,X
+,Technical Security,Measures to ensure data protection and secure transactions. ,Group 20242100,"Concerts, Musical festivals and Public events",[NIST SP 800-53],X,,,
+,Parking Experience,"The degree to which the system enhances the overall user experience by providing seamless and intuitive parking services, minimizing frustration and ensuring ease of use. ",Group 20242100,"Concerts, Musical festivals and Public events",[ISO 9241-210:2019],,,,X
+,Water Consumptiion,"The total amount of water used in agricultural processes, critical for sustainable resource management. ",Group 20242300,Urban Agriculture,"FAO, 2017",,X,,
+,Yield Quality,"The market value and nutritional quality of the harvested crop, which affects competitiveness and profitability",Group 20242300,Urban Agriculture,"Godfray et al, 2010",X,,,
+,CO2 Emissions,"The release of carbon emissions due to the use of energy in farming operations, contributing to climate change",Group 20242300,Urban Agriculture,"Smith et al, 2014",,X,,
+,,the amount of CO2 that is emitted in the air by public vehicles ,Group 20249500,Public Transport,,,,,
+,Employment Opportunities,The impact of automation and technological upgrades on job availability in agriculture. ,Group 20242300,Urban Agriculture,"Sunding & Zilberman, 2001",,,,X
+,Organic Waste,"The accumulation of organic matter waste such as crop residues, which can be reduced with optimized farming practices. ",Group 20242300,Urban Agriculture,"Bosco et al, 2019",,X,,
+,Food Security,"The ability to produce sufficient, high-quality food to meet the demands of the population",Group 20242300,Urban Agriculture,"Godfray et al, 2010",,,,X
+,Yield Price,the market price of crops based on their quality and supply-demand dynamics,Group 20242300,Urban Agriculture,"Godfray et al, 2010",,,X,
+,Initial Investment,the upfront financial cost required for the implementation of new technologies in farming. ,Group 20242300,Urban Agriculture,"Lowenbreg-DeBoer & Erickson, 2019",,,X,
+,Occupational Injuries,The risk of physical injury associated with manual labor in farming activities,Group 20242300,Urban Agriculture,"Sunding & Zilberman, 2001",,,,X
+,Water Secutiry,the availability and sustainable management of water resources for agricultural peoduction,Group 20242300,Urban Agriculture,"Falkenmark & Rockstrom, 2006",,X,,
+,Event Tourism Planning,Ad-hoc temporary special events catered specifically to the Crowd’s interests,Group 20242400,Art & Museum,,,,X,
+,Tour Guide,Workers employed by the Curators to provide in-person guidance and education to the visiting Crowd,Group 20242400,Art & Museum,,,,,X
+,Operational Inventories,"Devices, hardwares, and other IT assets to deliver the digitalised services for the Stakeholders",Group 20242400,Art & Museum,,,,X,
+,Customer Inclusion,"Accessibility allows more inclusivity amongst di!erent people (e.g. blind people, deaf people, people in wheelchair)",Group 20242400,Art & Museum,,,,,X
+,Operational Costs,"Expenses borne by the Curators for the day-to-day maintenance of the galleries, including investment and operation of inventories and salaries of all employees",Group 20242400,Art & Museum,,,,X,
+,Multi-format Storage,Digital storage that can take multiple forms such as server systems or cloud,Group 20242400,Art & Museum,,X,,,
+,Preservation of Exhibits,"Preservation of the knowledge about exhibits by making digital copies that can be stored, viewed and studied",Group 20242400,Art & Museum,,,,,X
+,IT Headcount Investment,Expenses borne by the Stakeholders to train and employ workers to maintain IT-related inventories,Group 20242400,Art & Museum,,,,X,
+,Employee Training,Employees need to be trained in using the new digital tools and potentially maintain them,Group 20242400,Art & Museum,,,,X,
+,Gainful Employment,All workers spanning across di!erent industries o!ering di!erent skillsets,Group 20242400,Art & Museum,,,,,X
+,Personal Privacy,Personally Identifiable Information (PII) that are collected by the Analytics Engine which could be used to profile an individual,Group 20242400,Art & Museum,European Union General Data Protection Regulation,,,,X
+,Network,The network to internally host the digital product,Group 20242400,Art & Museum,,X,,,
+,Marketing Data,Data collected and generated by the Analytics Engine to gauge the level of engagement among the Crowd,Group 20242400,Art & Museum,,,,X,
+,Customer Engagement,"Due to the digitalized art pieces, customers can engage in new/di!erent ways with the art pieces",Group 20242400,Art & Museum,,,,,X
+,Museum Income,Revenue generated by the Curators through the Crowd’s gallery tickets and merchandising purchases,Group 20242400,Art & Museum,,,,X,
+,Tourism Revenue,Revenue generated by the Hospitality Industry and the government agencies through transactions related to Tourism activities,Group 20242400,Art & Museum,,,,X,
+,Culture Appreciation,Level of interest shown by the Crowd to the di!erent o!erings of exhibitions and special events organised by the Curators,Group 20242400,Art & Museum,,,,,X
+,Culture Preservation,"Level of interest shown by the Crowd to further study the exhibition’s subject matter and the enthusiasm to spread the knowledge to potential, not-yet-reachable Crowd",Group 20242400,Art & Museum,,,,,X
+,Government Tax Revenue,Revenue generated by various government agencies through tari!s/taxes/percentages of transactional values in exchange for goods and services,Group 20242400,Art & Museum,Definition will vary across different jurisdictions; we shall allow the prevailing laws and regulations local to the galleries/museums to apply here,,,X,
+,IoT Devices,"IoT devices are designed to not only collect and measure data but also to communicate with each other, enabling interconnected systems. This complexity makes their implementation technically challenging.",Group 20242400,Art & Museum,,X,,,
+,Security,"Security is crucial for any network, especially when handling sensitive user data, as it safeguards privacy and prevents unauthorized access.",Group 20242400,Art & Museum,,,,,X
+,,Ensuring the platform is protected against cyber threats and unauthorized access through robust technical measures.,Group 20249330,Digital Local Communities,ISO 25010,X,,,
+,,Ensuring users feel confident that their personal data and activities on the platform are secure and respected.,,,,,,,X
+,Paper Waste,discarded paper products,Group 20249100,"Concerts, music festivals, public events",[ISO/IEC 24161:2022,,X,,
+,Plastic Waste,Discarded material which contains as an essential ingredient a high polymer ,Group 20249100,"Concerts, music festivals, public events",[ISO/IEC 24161:2022,,X,,
+,Waste Reduction,Systematic actions and activities required in order to manage waste from its inception to its final disposal ,Group 20249100,"Concerts, music festivals, public events",[ISO/IEC 5020:2022],,X,,
+,Reliance on Technology,The ability of a service to perform its required functions under stated conditions for a specified period of time ,Group 20249100,"Concerts, music festivals, public events",[S-Cube Quality Reference Model (2012)],X,,,
+,Reduced Queues,Wait time for a service request before it is actually executed,Group 20249100,"Concerts, music festivals, public events",[S-Cube Quality Reference Model (2012)],,,,X
+,Execution Time,Time taken by a service to process its sequence of activities,Group 20249100,"Concerts, music festivals, public events",[S-Cube Quality Reference Model (2012)],,,,X
+,Cost Model,Defines a set of functions that transform resources (services) into costs,Group 20249100,"Concerts, music festivals, public events",[S-Cube Quality Reference Model (2012)],,,X,
+,Data Security Risks,The capability of a system to protect data and control access to resources through technical safeguards and secure system design.,Group 20249100,"Concerts, music festivals, public events",[S-Cube Quality Reference Model (2012)],X,,,
+,,The extent to which users feel confident that their data and digital interactions are protected from misuse or unauthorized access.,,,,,,,X
+,Fraud Risk,Intentional misstatement made wrongfully or criminally for financial or peronal gain,Group 20249100,"Concerts, music festivals, public events",[ISO/IEC 14066:2023],,,X,
+,User Inclusivity,It defines whether the service is capable of serving requests. Note that while many services are ready to use they might not be. ,Group 20249100,"Concerts, music festivals, public events",[S-Cube Quality Reference Model (2012)],,,,X
+,Transaction Time,Time elapsed while a service is completing a transaction,Group 20249100,"Concerts, music festivals, public events",[S-Cube Quality Reference Model (2012)],,,X,
+,Management Efficiency,Management resources expended in relation to the accuracy and completeness with which users achieve goals,Group 20249200,Public Events,[ISO/IEC 25010:2011],,,X,
+,Spatial and temporal efficiency,Spatial and temporal resources expended in relation to the accuracy and completeness with which users achieve goals,Group 20249200,Public Events,[ISO/IEC 25010:2011],,,,X
+,Digital-literacy iclusion,Degree to which a system can be used by people with the widest range of capabilities,Group 20249200,Public Events,[ISO/IEC 25010:2011],,,,X
+,Geographical accessibility,Degree to which a system can be used by people with the widest range of characteristics,Group 20249200,Public Events,[ISO/IEC 25010:2011],,,,X
+,Social Cohesion,The degree to which community groups exhibit solidarity and connectedness,Group 20249310,Digital Local Communities,Adapted from [Manca (2014)],,,,X
+,Job Creation,The process of generating employment opportunities that contribute to economic growth and workforce expansion.,Group 20249310,Digital Local Communities,simplified from [Demetriades (2024)],,,X,
+,,The creation of inclusive job opportunities aimed at improving livelihoods and integrating unemployed or marginalized individuals into the workforce.,,,,,,,X
+,Energy Waste,The degree to which electricity or other forms of energy are produced but not used efficiently.,Group 20249310,Digital Local Communities,simplified from [Demetriades (2024)],,X,,
+,Co-existence,"The degree to which a system can perform its required functionalities in an efficient manner while sharing a common environment and resources with other products, without having a detrimental impact on any other systems/technologies in place",Group 20249310,Digital Local Communities,[ISO/IEC 25010:2011],X,,,
+,,,Group 20249400,Urban Agriculture,,,,,
+,Pollution Risks,"the probability of harm to health of individuals, property or environment posed by the introduction of an undesirable substance into the eco system.",Group 20249310,Digital Local Communities,Adapted from [GEMET (2021)],,X,,
+,Consumer Participation,The active involvement of individuals in activities and approaches that empower them and their communities to actively shape their own future and contribute to the well-being of their environment,Group 20249310,Digital Local Communities,Simplified from [Cousins (2024)],,,,X
+,Regulatory Compliance,"The degree to which the system complies with the applicable laws, regulations, policies and other procedures, issued by governments and regulatory bodies",Group 20249310,Digital Local Communities,Adapted from [(MetricStream (n.d))],,,,X
+,Confidentiality,The degree to which a system ensures that data are accessible only to those authorized to have access,Group 20249310,Digital Local Communities,[ISO/IEC 25010:2011],X,,,
+,,,Group20249500,Public Transport,,,,,
+,Authenticity,The degree to which the identity of a subject or resource can be proved to be the one claimed,Group 20249310,Digital Local Communities,[ISO/IEC 25010:2011],,,,X
+,Error Reduction,Minimizing transactional errors to ensure smooth operations and user trust.,Group 20249330,Digital Local Communities,SAF Toolkit,X,,,
+,Trust,Level of user confidence in using the e-commerce platform for transactions and information sharing.,Group 20249330,Digital Local Communities,Adapted from ISO 25010,,,,X
+,,the degree to which a user or other stakeholder has confidence that a product or system will behave as intended,Group20249500,Public Transport,[ISO/IEC 25010:2011],,,,
+,Business Equity,"Fair opportunities for all businesses to engage in the digital marketplace, regardless of size.",Group 20249330,Digital Local Communities,New Definition,,,X,
+,Personalized Shopping Experience,Ability to tailor shopping recommendations based on user preferences and past behavior. ,Group 20249330,Digital Local Communities,New Definition,,,,X
+,Interoperability,"Compatibility of the e-commerce platform with various devices, browsers, and other systems.",Group 20249330,Digital Local Communities,ISO 25010,X,,,
+,,The degree to which a system can exchange information with other systems and use the information,Group 20249400,Urban Agriculture,simplified from [ISO/IEC 25010:2011],,,,
+,,,Group20249500,Public Transport,,,,,
+,Early Detection,The ability to identify potential issues or trends in user behavior before they escalate. ,Group 20249330,Digital Local Communities,New Definition,X,,,
+,Accountability,"Transparency in business operations, ensuring fair and responsible practices.",Group 20249330,Digital Local Communities,Custom Definition,,,X,
+,Environmental Risk Mitigation ,Measures to reduce potential environmental risks associated with platform operations.  ,Group 20249330,Digital Local Communities,SAF Toolkit,,X,,
+,Recoverability,"The degree to which, in case of an interruption or a failure, a system can recover the data affected and re-establish the desired state of the system",Group 20249400,Urban Agriculture,[ISO/IEC 25010:2011],X,,,
+,Well-being,"the way customers generally feel , their general health and happiness",Group20249500,Public Transport,Oxford Dictionary 2024,,,,X
+,Customer satisfaction,the degree to which customers are satisfied (Happy / not happy) with the process,Group20249500,Public Transport,,,,,X
+,Time management ,the degree to which customers can effectively and productively manage their time,Group20249500,Public Transport,,,,,X
+,Traffic jams ,the degree of which traffic jams occur due to public transport vehicle,Group20249500,Public Transport,,,X,,
+,Fuel consumption,the amount of fuel that is being used by the public transport vehicle  ,Group20249500,Public Transport,,,X,,
+,Air quality,the degree to which the air is clean and free from pollution,Group20249500,Public Transport,Oxford Dictionary 2024,,X,,
+,Inclusivly ,"the degree to which people with all kinds of backgrounds, ethnicities, education, age, etc. can use the system",Group20249500,Public Transport,,,,,X
+,Edge computing ,"It is a type of network communication technique to distributes the load on the system by placing a huge number of servers near users and devices. In simple words ""putting servers at edge network closer to the device"" ",Group20249500,Public Transport,ICIEM,X,,,
+,Public transport rides,amount of rides within the public transport,Group20249500,Public Transport,,,X,,
+,Public transport usage,amount of people using the public transport,Group20249500,Public Transport,,,X,,
+,Fog computing ,Is a layer of computing between the device and the cloud,Group20249500,Public Transport,https://www.techtarget.com/iotagenda/definition/fog-computing-fogging,X,,,
+,Cost of retrofitting,The cost of Retrofitting is the addition of new technology or features to older systems.,Group20249500,Public Transport,https://en.wikipedia.org/wiki/retrofitting,,,X,
+,Retrofitting,Retrofitting is the addition of new technology or features to older systems.,Group20249500,Public Transport,https://en.wikipedia.org/wiki/retrofitting,X,,,
+,Maintenance cost,Any cost incurred by an individual or business to keep their assets in good working order.,Group20249500,Public Transport,,,,X,
+,Trustability,How much consumers can trust the system to deliver expected results consistently and without manipulation,Group20249700,Urban Agriculture,,,,,X
+,Social equity,The system ensures equal access and fair treatment for farmers and consumers,Group20249700,Urban Agriculture,,,,,X
+,Consumer Experience & Accessibility ,"ease with which consumers can interact with the system, find information, and make purchases",Group20249700,Urban Agriculture,,X,,,
+,Data security and privacy,protection of personal data and secure transaction processes,Group20249700,Urban Agriculture,,X,,,
+,Wastage,reduction the food and product wastage through better demand forecasting and recycling,Group20249700,Urban Agriculture,,,X,,
+,Health benefits,"the availability of health-related information and guidance for consumers, such as nutritional benefits and recipe suggestions, through the digital platform ",Group20249700,Urban Agriculture,,,X,,
+,Inclusivity,"inclusion is seen as a process of addressing and responding to the diversity of needs of all learners through increasing participation in learning, cultures and communities, and reducing exclusion within and from education.",Group20249800,Art & Museum ,Unesco. (2005). Guidelines for inclusion: Ensuring access to education for all. Unesco.,,,,X
+,Effectivness ,Accuracy and completeness with which users achieve specified goals. ,Group20249800,Art & Museum ,ISO 9241-11:2018,,,,X
+,Accessibility,Accessibility is seen as being concerned with the opportunity available to an individual or type of person at a given location to take part in a particular activity or set of activities.   ,Group20249800,Art & Museum ,"Jones, S.R. (1981). Accessibility measures: a literature review. publication of: Transport and road research laboratory. (TRRL LR 967 Monograph)",X,,,
+,Career prospect,"The potential opportunities for advancement and growth in a chosen profession, including possibilities for promotion, professional development, and long-term success.  ",Group20249800,Art & Museum ,"Antara, N., & Sen, S. (2020). The Impact of COVID-19 on Musem and The Way Forwarded to be Resilience. Journal of International Meuseum Education, 2 (1), 54-61",,,,X
+,Profitability,A flow of services from wealth and human beings.,Group20249800,Art & Museum ,"Hewett, W.W. (1925). The definition of income. The American Economic Review, 15(2) , 239-246",,,X,
+,User engagment ,degree to which a user interface presents functions and information in an inviting and motivating manner encouraging continued interaction.,Group20249800,Art & Museum ,ISO 9241-11:2018,,,,X
+,Satisfaction,"Extended to which the user's physical, cognitive and emotional responses that result from the use of a system, product, or service meet the user's needs and expectations.  ",Group20249800,Art & Museum ,ISO 9241-11:2018,X,,,
+,Operability,System has attributes that make it easy to operate and control.,Group20249800,Art & Museum ,[ISO/IEC 25010:2011],X,,,
+,Energy and water efficiency,resources expended in relation to the accuracy and completeness with which users achieve goals,Group20249800,Art & Museum ,[ISO/IEC 25010:2011],,X,,
+,Digital Inclusion ,"degree to which equitable, meaningful, and safe access to use, lead, and design of digital technologies, services, and associated opportunities exist for everyone, everywhere.",Group20249900,Waste Mnagement,"United Nations. ""Digital Inclusion"". Roundtable on Digital Inclusion. Accessed: 20204-10-03. URL: https://www.un.orgltechenvoy/sites/www.un.org.techenvoy/files/general/definition_digital-inclusion.pdf",,,,X
+,Data Privecy,"degree to which individuals, groups, or institutions determine for themselves when, how, and to what extent information about them is communicated to others ",Group20249900,Waste Mnagement,"A F Westin. ""Privacy and freedom"". New York: Atheneum Press (1967)",,,,X
+,Trust,degrre to which a user or other stackholder has confidence that a product or system will be behave as intended,Group20249900,Waste Mnagement,[ISO/IEC 25010:2011],,,,X
+,Environmental engagement,"involves the transformation of perceptions and attitudes into concrete, pro-environmental actions.",Group20249900,Waste Mnagement,"United Nations. ""Framework for the Development of Environment Statistics (FDES 2013). Accessed: 2024-10-05. URL: https://unstats.un.org/unsd/environment/fdes/fdes-2015-supporting-tools/fdes.pdf",,X,,
+,Resource utilization,the type and amounts of resources required to establish and operate the system as well as perform its function,Group20249900,Waste Mnagement,Extended from [ISO/IEC 25010:2011],,X,,
+,Efficiency,resource used in relation to the accuracy and completeness with which a system achieves its goals,Group20249900,Waste Mnagement,Simplifide from [ISO/IEC 25010:2011],X,,,
+,Flexibility,degree to which a system can be used in contexts beyond those initially specified in the requirements ,Group20249900,Waste Mnagement,Simplifide from [ISO/IEC 25010:2011],X,,,
+,Urban Hygine,environmental health factors in densely populated areas to ensure sanitation and cleanliness ,Group20249900,Waste Mnagement,"Seta, F. Islam, N., Nabi, A. & lihima, A. (2019) Urban hygiene and infrastructure:  A Case study of Dhaka Bangladesh. Journal of Urban Management. 8(1) , 45-60.",,X,,
+,Carbon Footprint,the total amount of greenhouse gases that are emitted in to the atmosphere,Group20249900,Waste Mnagement,"United States Environmental Protection Agency. ""Cimet Change Terms: Carbon Footprint. Accessed: 2024-10-10.",,X,,
+,Scalability,capability of a product to handle growing or shrnking workloads or to adapt its capability to handle variability,Group20249900,Waste Mnagement,[ISO/IEC 25010:2011],X,,,
+,Community Awareness,degree to which citizens are aware of their obligations and responsibilities relating to waste management,Group20249900,Waste Mnagement,"translated to the waste management context from: European Environment Agency. "" Term: citizen awareness"". Accessed: 2024-10-16.",,,,X
+,Waste Volume ,total amount of waste generated by householders; retailers and other small business; public service providers and other similar sources,Group20249900,Waste Mnagement,"United Nations ""Global Waste Management Outlook 2024"".",,X,,
+,Accessibility,degree to which a system can be used by the people with the widest range of characteristics and capabilities  ,Group20249900,Waste Mnagement,[ISO/IEC 25010:2011],X,,,
+,Operability,degree to which a system has attributes that make it easy to operate and control,Group20249900,Waste Mnagement,[ISO/IEC 25010:2011],X,,,
+,Effectivness ,Accuracy and completeness with which users achieve specified goals. ,Group20249900,Waste Mnagement,[ISO/IEC 25010:2011],X,,,
+,Recycling Rate,"defined as the percentage of total waste generated that is recycled. It measures the proportion of waste materials that are diverted from disposal methods such as landfills or incineration and processed for reuse, either through material recovery or composting",Group20249900,Waste Mnagement,"European Environmental Agency. ""Waste recycling in Europe"". 2023. Accessed: 2024-10-10",,X,,
+,Circular Economy,"the extet to which the system promotes resource efficiency, waste minimization, and the reuse or recycling of materials",Group20249900,Waste Mnagement,"Organization of Economic Co-operation and Development. ""Circular economy in cities and regions"". accessed: 2024-10-16",,X,,
+,Landfill Use,landfill use refers to the disposal of waste in designated sites. where it is buried under controlled conditions.,Group20249900,Waste Mnagement,"European Commision. ""Landfill waste"". Accessed: 2024-10-16.",,X,,
+,Health and Safety,Refer to the machines and procedures implemented to ensure the well-being of workers by minimising risks and reducing exposure to hazardous substances or unsafe working conditions.,Group20249900,Waste Mnagement,extended from cambridge dictionary,,,,X
+,System Reliability,"Degree to which a system, product or component fulfilscertain functions under certain condition.",Group20249900,Waste Mnagement,[ISO/IEC 25010:2011],X,,,
+,Fraud,"Refer to any international act of cheating, manipulation or falsification for financial or personal ",Group20249900,Waste Mnagement,extended from ISO/DIS 22380,,,X,
+,Empowerment,"process of enabling individuals or groups to gain control and confidence to make decisions and take action, and to be provided with the necessary tools, resources and training to improve their own circumstances",Group20249900,Waste Mnagement,Extended from: Meriam-Webster Dictionary,,,,X
+,Trust & Accountability,"degree to which users or other stachholders have confidence that the system will operated as intended, and the degree to which every action can be uniquely traced to the responsible entity or step within the ......",Group20249900,Waste Mnagement,Extended from [ISO/IEC 25010:2011],,,,X
+,Vulnerability,the weakness of a system to internal or external threats that disrupt the functioning of the system,Group20249900,Waste Mnagement,"extended from: National Institute of Standards and Technology. ""Glossary: vulnerability"". Accessed: 2024-10-16. ",X,,,
+,Interoperability,degree to which a system can exchange information with other systems and use the information,Group20249900,Waste Mnagement,Simplifide from [ISO/IEC 25010:2011],X,,,
+,Functional correctness,degree to which a system provides the correct results with the needed degree of precision,Group20249900,Waste Mnagement,Simplifide from [ISO/IEC 25010:2011],X,,,
+,Interoperability,"the ability of the museum's system to exchange informattion and use exchanged information with other digital ecosystems (e.g., sharing artefacts digitally)",Group 2024 - 6,Art & Museum ,Simplifide from [ISO/IEC 25010:2011],X,,,
+,Context completeness,"the system can be used in all the specified contexts of use, ensuring global accessibility for diverse audiences",Group 2024 - 6,Art & Museum ,Simplifide from [ISO/IEC 25010:2011],X,,,
+,Flexibility,"the museum system can be used in evolving contexts, adapting to new technologies or change in use requirments.",Group 2024 - 6,Art & Museum ,Simplifide from [ISO/IEC 25010:2011],X,,,
+,Efficiency,resources used in relation to the effectivness of delivering accurate and complete museum experiences,Group 2024 - 6,Art & Museum ,Simplifide from [ISO/IEC 25010:2011],,,,X
+,Economic risk mitigation ,"the system mitigates potential risks to financial status, ensuring sustainable revenue generation through digital offerings.",Group 2024 - 6,Art & Museum ,Simplifide from [ISO/IEC 25010:2011],,,X,
+,Environmental Risk Mitigation ,the system reduces the risk of environmental harm by digitizing collections and minimizing physical artefact handling,Group 2024 - 6,Art & Museum ,Simplifide from [ISO/IEC 25010:2011],,X,,
+,Health and Safety risk mitigation,"the digital museum mitigates potential risks to artefact preservation, safeguarding fragile items from physical damage.",Group 2024 - 6,Art & Museum ,Simplifide from [ISO/IEC 25010:2011],,X,,
+,Functional completeness,"the degree to which the digital museum's functions (e.g., displaying artefacts, virtual tours) cover all intended tasks and objectives",Group 2024 - 6,Art & Museum ,Simplifide from [ISO/IEC 25010:2011],X,,,
+,Modifiability,"the digital system can be effectively and efficiently modified, for example, to include new collections or adapt newer technologies",Group 2024 - 6,Art & Museum ,Simplifide from [ISO/IEC 25010:2011],X,,,
+,Resource utilization,"the system minimizes the use of resources (e.g., energy, computational power) while providing virtual exhibits and running interactive displays",Group 2024 - 6,Art & Museum ,Simplifide from [ISO/IEC 25010:2011],,X,,
+,Confidentiality ,"the system protects visitor and institutional data, ensuring only authorized access to sensitive information",Group 2024 - 6,Art & Museum ,Simplifide from [ISO/IEC 25010:2011],X,,,
+,Integrity,"ensures that the museum's digital contet (artefacts, visitor data) is protected from unauthorized modification or damage",Group 2024 - 6,Art & Museum ,Simplifide from [ISO/IEC 25010:2011],X,,,X
+,Accessibility,"the system is designed to be used by people with divers characteristics, including thoes with physical or congnitive impairments",Group 2024 - 6,Art & Museum ,Simplifide from [ISO/IEC 25010:2011],,,,X
+,Data Privecy,"protects visitor and institutional data, ensuring only authorized access to sensitive information collected during virtual tours or interactions",Group 2024 - 6,Art & Museum ,adapted from [Condori-Fernandez et al. (2020)],X,,,
+,Timeliness,"ensures that digital exhibits and services (e.g., virtual guids, AR tours) are delivered at appropriate and useful times for visitor engagement",Group 2024 - 6,Art & Museum ,adapted from [ISO/IEC 25010:2011],X,,,
+,,,,,,,,,
+2022,Accessibility,Giving all students the possibility to have the same educational experiences and information.,Group 2022 - 1,Education,,,,,X
+,,Degree to which all people in society can use the service + Degree to which different research groups in society are included due to providing the service.,Group 2022 - 2,Art & Museum ,,,,,
+,,Public transport can be used by people with the widest range of characteristics and capabilities.,Group 2022 - 4,Urban mobility,adapted from ISO/IEC 25010:2011 quality model,,,,
+,,System is easy to use by people with less technical skills.,Group 2022 - 8,Art & Museum ,[Condori-Fernandez et al. (2020)],,,,
+,,Degree to which a system can be used by people with the widest range of characteristicts and capabilities.,Group 2022 - 9,Healthcare,[ISO/IEC 25010:2011],,,,
+,,"Degree to which a software system is designed to be accessible for people with the widest range of physical, sensory and cognitive abilities, including those who are temporarily disabled, and the elderly.",Group 2022 - 9,Healthcare,[ISO 9241-171:2008],X,,,
+,,Degree to which a system can be used by people with the widest characteristics and capabilities.,Group 2022 - 22,Music festival and Events,simplified from [ISO/IEC 25010:2011],,,,
+,,The degree to which a product is accessible by each customer.,Group 2022 - 23,Music festival and Events,,,,,
+,,Degree to which an XR conference can be used by widely dispersed people with various ranges of characteristics and capabilities.,Group 2022 - 21,Conference and Events,simplified from [ISO/IEC 25010:2011] with making own adjusments to fit the domain,,,,X
+,,Degree to which a system can be used by people with the widest range of characteristics and capabilities.,Group 2022 - 24,Art industry,simplified from [ISO/IEC 25010:2011],,,,
+,Transportation,Students/employees using (public) transport to travel to their educational institutions.,Group 2022 - 1,Education,Own definition,,X,,
+,Costs,Payment required to buy or obtain something/ Payment required to buy or obtain something software/devices,Group 2022 - 1,Education,Own definition,,,X,
+,Paper Waste,Amount of paper that has been thrown away or discarded before/after being used by the consumer. ,Group 2022 - 1,Education,Own definition,,X,,
+,Interactivity,The process of two people or things working together and influencing each other.,Group 2022 - 1,Education,Own definition,,,,X
+,Social Contact,Intraction/communication between two or more persons.,Group 2022 - 1,Education,Own definition,,,,X
+,Privacy,"The degree to which the collection, storage or use of personally identifiable informatoin is protected.",Group 2022 - 1,Education,adapted from [Condori-Fernandez et al. (2020)],,,,X
+,,"Degree to which the collection, storage or use of personally identifiable information is protected.",Group 2022 - 2,Art & Museum ,,,,,
+,,"The degree to which the collection, storage or use of personally identifiable informatoin is protected.",Group 2022 - 3,Urban mobility,,,,,
+,,"Protection of collection, storage, or use of personal information.",Group 2022 - 8,Art & Museum ,[Condori-Fernandez et al. (2020)],,,,
+,,"Degree to which the collection, storage, or use of personally identifiable information is protected.",Group 2022 - 21,Conference and Events,adapted from [Condori-Fernandez et al. (2020)],,,,
+,,"Degree to which the collection, storage, or use of personally identifiable information is protected.",Group 2022 - 9,Healthcare,,X,,,
+,Technical Issues,Unforeseen equipment problems such as hardware failures or software bugs.,Group 2022 - 1,Education,Wikipedia,X,,,
+,Accuracy,How precise the student results represent their level of education,Group 2022 - 1,Education,Own definition,,,,X
+,Work Efficiency,Carrying out tasks in the right way with the least waste of time and effort.,Group 2022 - 1,Education,Own definition,,,,X
+,Time Saving,Reducing the amount of time needed to do something.,Group 2022 - 1,Education,Oxford Languages,,,,X
+,Student Success,The level of education that students perform at.,Group 2022 - 1,Education,Own definition,,,,X
+,Modifiability,The degree of ease at which changes can be made and the flexibility with which the system adapts to such changes.,Group 2022 - 1,Education,Own definition,,X,,
+,Functional Appropriateness,Degree to which digital tours are used as intended.,Group 2022 - 2,Art & Museum ,,X,,,
+,Coexistence,Degree to which digital tours can coexist which pshysical tours whithout significant negative impact on either.,Group 2022 - 2,Art & Museum ,,,,X,
+,Tailorability,Degree to which repackaging allows museums to develop their connections.,Group 2022 - 2,Art & Museum ,,X,,,
+,Authenticity,Degree to which the identity of a subject or resource can be proved to be the one claimed.,Group 2022 - 2,Art & Museum ,[ISO/IEC 25010:2011],,,,X
+,Resource Utilization,Degree to which commodities are fabricated from collections.,Group 2022 - 2,Art & Museum ,,X,,,
+,Environmental Risk Mitigation,Degree to which commodities mitigate potential risk to propertyor the environment in the intended contexts of use.,Group 2022 - 2,Art & Museum ,Simplified form [ISO/IEC 25010:2011],,X,,
+,Learnability,Degree to which art preservation contributes to education.,Group 2022 - 2,Art & Museum ,,,,,X
+,Functional Correctness,Degree to which art preservation contributes to providing an actual representation of the historical truth. ,Group 2022 - 2,Art & Museum ,,X,,,
+,Functional Completeness,Degree to which art preservation contributes to providing a complete representation of historical events.,Group 2022 - 2,Art & Museum ,,X,,,
+,Capacity,Degree to which museum capacity (visitors/collections) can be monitored to measure performance.,Group 2022 - 2,Art & Museum ,,,,X,
+,Learnability,Degree to which art research contributes to education.,Group 2022 - 2,Art & Museum ,,,,,X
+,Interoperability,Degree to which art research can be shared across institutions.,Group 2022 - 2,Art & Museum ,,X,,,
+,Resource Utilization,Degree to which museum research resources are used as intended to minimise resource utilisation.,Group 2022 - 2,Art & Museum ,,,X,,
+,,Amounts and types of resources used by the public transport system in operation meet requirements.,Group 2022 - 4,Urban mobility,adapted from ISO/IEC 25010:2011 quality model,,X,,
+,Traffic Congestion,"Condition on road networks that occurs as use increases, and is characterised by slower speeds, longer trip times, and increased vehicular queuing.",Group 2022 - 3,Urban mobility,[29],,,,X
+,Availability,"Degree to which a system, product or component is operational and accessible when required for use.",Group 2022 - 3,Urban mobility,[28],,,,X
+,,Public transport is operational and accesible when required for use.,Group 2022 - 4,Urban mobility,adapted from ISO/IEC 25010:2011 quality model,,,,X
+,Fuel Consumption,Amount of fuel a vehicle consumes to go a specific distance.,Group 2022 - 3,Urban mobility,[30],,X,,
+,Emissions,Amount of substance that is produced and set out in to the air that is harmful to the environment.,Group 2022 - 3,Urban mobility,[31],,X,,
+,Climate Change,Long-term shifts in temperatures and weather patterns.,Group 2022 - 3,Urban mobility,[32],,X,,
+,Motivation,The willingness to make more environmentally sustainable choices.,Group 2022 - 3,Urban mobility,-,,,,X
+,Insurance,Protection againts claims resulting from injuries and damage to other people or property.,Group 2022 - 3,Urban mobility,[33],,,X,
+,Car Taxes,Money that you pay to the government so that you can drive your car on the roads.,Group 2022 - 3,Urban mobility,[34],,,X,
+,Environmental Awareness,"Having an undrestanding of the environment, the impacts of human behaviors on it, and the importance of its protection.",Group 2022 - 3,Urban mobility,[36],,X,,
+,Efficiency,Resources expended in relation to the accuracy and completeness with which users achieve goals.,Group 2022 - 3,Urban mobility,[28],X,,,
+,,Technical resources expended per passenger kilometer.,Group 2022 - 4,Urban mobility,adapted from ISO/IEC 25010:2011 quality model,X,,,
+,,Finanical resources expended per passenger kilometer.,Group 2022 - 4,Urban mobility,adapted from ISO/IEC 25010:2011 quality model,,,X,
+,,Resources expended in relation to the accuracy and completeness with which users achieve goals.,Group 2022 - 7,Agricultural,[ISO/IEC 25010:2011],,,,X
+,,The balance between used resources and achieved goals.,Group 2022 - 8,Art & Museum ,[ISO/IEC 25010:2011],,X,,
+,,The degree in which data collection helps companies be efficient with marketing.,Group 2022 - 23,Music festival and Events,,,,X,
+,Scalability,A system's ability to increase or decrease in performance and cost in responce to changes in application and system processing demands.,Group 2022 - 3,Urban mobility,[37],X,,,
+,Customer Satisfaction,Degree to which passengers are satisfied with their use of public transport.,Group 2022 - 4,Urban mobility,adapted from ISO/IEC 25010:2011 quality model,,,,X
+,Trust,Passengers have confidence that public transport will behave as intended.,Group 2022 - 4,Urban mobility,adapted from ISO/IEC 25010:2011 quality model,,,,X
+,Effectiveness,Degree to which repackaging contributes to value creation for museums.,Group 2022 - 2,Art & Museum ,,X,,,
+,,Completeness with which passengers can use public transport to meettheir journey requirements.,Group 2022 - 4,Urban mobility,adapted from ISO/IEC 25010:2011 quality model,,,,
+,,The ability to be successful and produce the intended results.,Group 2022 - 23,Music festival and Events,Cambridge Dictionary,,,,
+,,"Accuracy and completeness with which users achieve specified goals, for example attending an XR conference that provides accurate human interaction and communication.",Group 2022 - 21,Conference and Events,[ISO/IEC 25010:2011] with making own adjusments to fit the domain,,,,
+,,Accuracy and completeness with which users achieve specified goals.,Group 2022 - 7,Agricultural,[ISO/IEC 25010:2011],,,X,
+,,Application achieves predetermined goals with good accuracy.,Group 2022 - 8,Art & Museum ,[ISO/IEC 25010:2011],X,,,
+,Fault Tolerance,The system operates as intended despite the presence of hardware of software faults.,Group 2022 - 4,Urban mobility,adapted from ISO/IEC 25010:2011 quality model,X,,,
+,Adaptability,"Public transport system can effectively and efficiently be adapted for different or evolving hardware, software, or usage environments. ",Group 2022 - 4,Urban mobility,adapted from ISO/IEC 25010:2011 quality model,X,,,
+,Digital Inclusion,Ability of users to make effective use of the system with minimal digital skills.,Group 2022 - 4,Urban mobility,(own definition),,,,X
+,Flexibility,Public transport can be used in contexes beyond those inititially specified in the requirements.,Group 2022 - 4,Urban mobility,adapted from ISO/IEC 25010:2011 quality model,,,X,
+,Compatibility,Degree to which a system can exchange information with other systems and use the information.,Group 2022 - 7,Agricultural,[ISO/IEC 25010:2011],X,,,
+,Usability,Degree to which a system can be used to achieve specified goals of learning to use the system.,Group 2022 - 7,Agricultural,Simplified From [ISO/IEC 25010:2011],,,,X
+,Health And Safety Risk Mitigation,Degree to which a product or system mitigates the potential risk to people in the intended context of use.,Group 2022 - 7,Agricultural,[ISO/IEC 25010:2011],,,,X
+,Economic Risk Mitigation,"Degree to which a product or system mitigates the potential risk to financial status, efficient operation, commercial property, reputation or other resources in the intended contexts of use.",Group 2022 - 7,Agricultural,[ISO/IEC 25010:2011],,,X,
+,Environmental Risk Mitigation,Degree to which a product or system mitigates the potential risk to property or the environment in the intended contexts of use.,Group 2022 - 7,Agricultural,[ISO/IEC 25010:2011],,X,,
+,Context Coverage,Degree to which a system can be used in all the specified contexts of use.,Group 2022 - 7,Agricultural,[ISO/IEC 25010:2011],X,,,
+,Satisfaction,"Degree to which a user is satisfied with of use and the consequences of use their perceived achievement of pragmatic goals, including the results.",Group 2022 - 7,Agricultural,[ISO/IEC 25010:2011],,,,X
+,Digital Inclusion,Degree to which users are able to participare in the community while using digital tools.,Group 2022 - 7,Agricultural,Wilson et al. 2019,,,,X
+,Disicion Making,Process and logic through which individuals arrive at a decision.,Group 2022 - 7,Agricultural,Nitta. 2014,,,,X
+,Connectivity,Property of a computer network in which it is always possible to connect any two devices.,Group 2022 - 7,Agricultural,[ISO/IEC 2382:2015],X,,,
+,Employment,Occupation for which people are paid either in cash or in kind.,Group 2022 - 7,Agricultural,[ISO/IEC 21276:2018],,,,X
+,Regulation Compliance,The Degree to which a system allows to draw conclusions about how wellthe software adheres to application related regulations in laws.,Group 2022 - 7,Agricultural,adapted from [Condori-Fernandez et al. (2020)],,,,X
+,Freedom From Risk,system aims to mitigate the risk to financial stability in the intended contexts.,Group 2022 - 8,Art & Museum ,[ISO/IEC 25010:2011],,,X,
+,Functional Completeness,The system meet the expected functions and outcomes.,Group 2022 - 8,Art & Museum ,[ISO/IEC 25010:2011],X,,,
+,Modifiability,System can be easily modified  without reducing quality.,Group 2022 - 8,Art & Museum ,[ISO/IEC 25010:2011],X,,,
+,Reusability,Systems can be modified into other system to use it for different purposes.,Group 2022 - 8,Art & Museum ,[ISO/IEC 25010:2011],X,,,
+,Testability,System can be tested with specific critetia.,Group 2022 - 8,Art & Museum ,[ISO/IEC 25010:2011],X,,,
+,Adaptibility,"System is modified for different hardware, software or user environments.",Group 2022 - 8,Art & Museum ,[ISO/IEC 25010:2011],X,,,
+,Availability,System is operational and accessible for users.,Group 2022 - 8,Art & Museum ,[ISO/IEC 25010:2011],,,,X
+,Maturity,System is reliable under normal use.,Group 2022 - 8,Art & Museum ,[ISO/IEC 25010:2011],X,,,
+,Trust,Stakeholder has confidence that a system will function as intended.,Group 2022 - 8,Art & Museum ,[ISO/IEC 25010:2011],X,,,
+,Usefulness,Users is satisfied with their perceived achievement of practical aims.,Group 2022 - 8,Art & Museum ,[ISO/IEC 25010:2011],,,,X
+,Scalability,Computing processes can be used or produced in a range of capabilities.,Group 2022 - 8,Art & Museum ,[Condori-Fernandez et al. (2020)],,,X,
+,Authenticity,Identities of subjects or resources can be proved to be the one claimed.,Group 2022 - 8,Art & Museum ,[ISO/IEC 25010:2011],,,,X
+,Learnability,The users can learn to use the system with a resonable amount of effort.,Group 2022 - 8,Art & Museum ,[ISO/IEC 25010:2011],,,,X
+,Usefulness,"Degree to which a user is satisfied with their perceived achievement of pragmatic goals, including the results.",Group 2022 - 9,Healthcare,[ISO/IEC 25010:2011],X,,,
+,Trust,Degree to which a user or other stakeholder has confidence that a product or system will behave as intended.,Group 2022 - 9,Healthcare,[ISO/IEC 25010:2011],,,,X
+,Interoperability,Degree to which a system can exchange information with other systems and use the information.,Group 2022 - 9,Healthcare,[ISO/IEC 25010:2011],X,,,
+,Coexistence,"Degree to which a product can perform its required functions efficiently while sharing a common environment and resources with other products, without detrimental impact on any other product.",Group 2022 - 9,Healthcare,[ISO/IEC 25010:2011],X,,,
+,Confidentiality,Degree to which a system ensures that data are accessible only to those authorized to have access.,Group 2022 - 9,Healthcare,[ISO/IEC 25010:2011],X,,,
+,Learnability,Degree to which a system can be used to achieve specified goals of learning to use the system.,Group 2022 - 9,Healthcare,[ISO/IEC 25010:2011],,,,X
+, Regulation Compliance,Degree to which a system allows to draw conclusions about how well the software adheres to application related regulations in laws.,Group 2022 - 9,Healthcare,[16],,,,X
+,Efficiency,Resources expended in relation to the accuracy and completeness with which users achieve goals.,Group 2022 - 9,Healthcare,[ISO/IEC 25010:2011],,,X,
+,Well-being,"A scale that measures the hedonic and eudaimonic aspects, positive affect, satisfying interpersonal relationships and positive functioning in mental health.",Group 2022 - 9,Healthcare,[17],,,,X
+,Resource Utilization,"Degree to which the amounts and types of resources used by a system, when performing its functions, meet requirements.",Group 2022 - 9,Healthcare,[ISO/IEC 25010:2011],,X,,
+,,"Resource utilization is the amount of a good or service consumed or the pattern of use of a good or service within a specified time. The basic resources needed to provide a good or service are financial, human, technological, and physical.",Group 2022 - 9,Healthcare,[18],,,X,
+,CO2 Emissions,"Emissions analysis organized by the categories of Scope 1 (direct emissions from health care facilities), Scope 2 (indirect emissions from purchased energy), and Scope 3 (all indirect emissions, not included in scope 2, that occur in the value chain, including bot upstream and downstream emissions).",Group 2022 - 9,Healthcare,[19],,X,,
+,Economic Risk Mitigation,Degree to which a system mitigates the potential risk to financial status in the intended contexts of use.,Group 2022 - 9,Healthcare,[ISO/IEC 25010:2011],,,X,
+,Reduction Of Carbon Emissions,Reducing the amount of carbon emissions that are produced for x amount of livestock products.,Group 2022 - 10,Agricultural,,,X,,
+,Energy Usage,Energy needed to power the systems present in the farm.,Group 2022 - 10,Agricultural,,,X,,
+,Energy Efficiency,Extent to which system uses energy resources in the most optimal way.,Group 2022 - 10,Agricultural,,,X,,
+,Usefulness,The availability of the system to the stakeholders,Group 2022 - 10,Agricultural,,,,,X
+,Resource Utilization,The amount of available resources that you are now consuming is referred to as resource utilization. It aids in the planning of more effective resource utilization to guarantee that the farm is as productive as possible.,Group 2022 - 10,Agricultural,,,,X,
+,Inability To Trace And Check Bad Products,Lack of availability of the system to provide accurate parameters to locate defective products.,Group 2022 - 10,Agricultural,,X,,,
+,Livestock Welfare,Providing a mechanism for monitoring livestock health and wellness.,Group 2022 - 10,Agricultural,,X,,,
+,Profit Margins,"Profit margin, which is simply calculated by dividing income by revenues, measures how profitable the farm operations are.",Group 2022 - 10,Agricultural,,,,X,
+,Epidemic Spread,This is the rate at which dieases spreads between livestock due to poor housing or improper monitoring.,Group 2022 - 10,Agricultural,,,X,,
+,Disorgainzed Data And Slow Communication,The impact of analog technologies that aren't digitalized on farm communication.,Group 2022 - 10,Agricultural,,X,,,
+,Technological Improvement,The cost of digilization of farm operations and training of staffs will create a big shift from normal operations.,Group 2022 - 10,Agricultural,,,,X,
+,Trust,Employee trust that the proposed system performs well and is an imporvement to their workplace.,Group 2022 - 10,Agricultural,,,,,X
+,Better Time Management,Eliminating the need for many manual labor tasks and freeing up employee time.,Group 2022 - 10,Agricultural,,,,,
+,Usefulness,The benefits of the proposed changes.,Group 2022 - 10,Agricultural,,,,,
+,Health And Safety Risk Mitigation,Degree to which the technologies behind an XR conference mitigate the potential health risk to people in the intended contexts of use.,Group 2022 - 21,Conference and Events,simplified from [ISO/IEC 25010:2011] with making own adjusments to fit the domain,,,,X
+,Trust,Degree to which the attendees of an XR conference or the organisers of an XR conference have confidence that the XR conference will behave as intended. ,Group 2022 - 21,Conference and Events,[ISO/IEC 25010:2011] with making own adjusments to fit the domain,,,,X
+,User Addiction,Degree to which users of the XR technology can have control over their use of the XR technology.,Group 2022 - 21,Conference and Events,Group 21 definiton,,,,X
+,Enhanced Participation,Degree to which the number of participants in an event (conference) can increase.,Group 2022 - 21,Conference and Events,Group 21 definiton,,,,X
+,Time Behaviour,"Degree to which the response and processing times of an XR conference, when performing its functions, meet requirements.",Group 2022 - 21,Conference and Events,[ISO/IEC 25010:2011] with making own adjusments to fit the domain,X,,,
+,Operability,Degree to which the technologies behind an XR conference have attributes that make it easy to operate and control.,Group 2022 - 21,Conference and Events,[ISO/IEC 25010:2011] with making own adjusments to fit the domain,X,,,
+,Interoperability,Degree to which a system can exchange information with other systems and use the information.,Group 2022 - 21,Conference and Events,simplified from [ISO/IEC 25010:2011],X,,,
+,Integrity,"Degree to which the technologies behind an XR conference prevent unauthorised access to, or modification of, personal data (Cybersecurity).",Group 2022 - 21,Conference and Events,[ISO/IEC 25010:2011] with making own adjusments to fit the domain,X,,,
+,Robustness,The degree to which the technologies behind an XR conference behave in an acceptable way in unexpected situations.,Group 2022 - 21,Conference and Events,[ISO/IEC 25010:2011] with making own adjusments to fit the domain,X,,,
+,Maturity,Degree to wich the technologies behind an XR conference meet needs for reliability under normal operation. ,Group 2022 - 21,Conference and Events,[ISO/IEC 25010:2011] with making own adjusments to fit the domain,X,,,
+,Enhanced Payment Safety,Degree to which the payment system is secure.,Group 2022 - 21,Conference and Events,Group 21 definiton,X,,,
+,CO2 Emissions,Degree to which XR conferencing contributes to minimising CO2 emissions.,Group 2022 - 21,Conference and Events,Group 21 definiton,,X,,
+,Ecological Footprint,Degree to which XR conferencing contributes to minimising the ecological footprint.,Group 2022 - 21,Conference and Events,Group 21 definiton,,X,,
+,Economic Risk Mitigation,Degree to which XR conferencing minimises conferences' expenses for both attendees and organisers.,Group 2022 - 21,Conference and Events,Group 21 definiton,,,X,
+,Efficiency,Resources expended (energy cosumed) in relation to the accuracy and completeness with which attendees of an XR conference achieve goals.,Group 2022 - 21,Conference and Events,[ISO/IEC 25010:2011] with making own adjusments to fit the domain,,,X,
+,Reliability,Degree to which a system or component operates as intended despite the presence of hardware or software faults.,Group 2022 - 22,Music festival and Events,[ISO/IEC 25010:2011],X,,,
+,Regulation Compliance,The Degree to which a system allows to draw conclusions about how wellthe software adheres to application related regulations in laws.,Group 2022 - 22,Music festival and Events,adapted from [Condori-Fernanez et al. (2020)],X,,,
+,Satisfaction,"The degree to which a user is satisfied with their perceived achievement of pragmatic goals, including the results of use and the consequences of use.",Group 2022 - 22,Music festival and Events,[ISO/IEC 25010:2011],,,,X
+,Feasibility,Degree to which a system is technicaly possible to emplement.,Group 2022 - 22,Music festival and Events,Self Written,X,,,
+,Scalability,The degree to which a computing process is able to be used or produced in a range of capabilities.,Group 2022 - 22,Music festival and Events,adapted from [Condori-Fernanez et al. (2020)],X,,,
+,Adaptability,"Degree to which a system can effectively and efficiently be adapted for different or evolving hardware, software or other opetational or usage environmental.",Group 2022 - 22,Music festival and Events,[ISO/IEC 25010:2011],,,,X
+,Technological Dependency,Degree to which a system depends on the new technology.,Group 2022 - 22,Music festival and Events,Self Written,X,,,
+,Social Acceptance,Degree to which a system is acceptable to the users from the perpective of overall behavioural change.,Group 2022 - 22,Music festival and Events,Self Written,,,,X
+,Cost Efficiency,Degree to which a system is able to achieve the cost benefit goals and accepted by the users.,Group 2022 - 22,Music festival and Events,Self Written,,,X,
+,Energy Efficiency,Degree to which a system is able to achieve the goal of energy savings.,Group 2022 - 22,Music festival and Events,Self Written,,X,,
+,Trust,The degree to which customers trust companies with their data and their money.,Group 2022 - 23,Music festival and Events,,X,,,
+,Customer Satisfaction,The degree to which customers are satisfied with a service/product.,Group 2022 - 23,Music festival and Events,,,,,X
+,Functional Corectness,The degree to which a product or system provides the correct results with the needed degree of precision.,Group 2022 - 23,Music festival and Events,[ISO/IEC 25010:2011],X,,,
+,Development Costs,The amount of money and manpower it takes to create an application.,Group 2022 - 23,Music festival and Events,,,,X,
+,Usefulness,The quality or state of being useful.,Group 2022 - 23,Music festival and Events,Cambridge Dictionary,X,,,
+,Waste,The amount of paper and plastic waste left at an event.,Group 2022 - 23,Music festival and Events,,,X,,
+,Personnel Costs,The amount of money it costs to hire the required personnel for a task.,Group 2022 - 23,Music festival and Events,,,,X,
+,Customer Safety,The degree to which a customer feels safe at an event.,Group 2022 - 23,Music festival and Events,,,,,X
+,Profit,The amount of money a company is left with after deducting their income from their expenses.,Group 2022 - 23,Music festival and Events,,,,X,
+,Ticket Prices,The amount of money it costs to buy a ticket for an event.,Group 2022 - 23,Music festival and Events,,,,X,
+,Health And Safety Risk Mitigation,Health and safety risk management is a process where we do what we can to minimize the risks associated with health and safety hazards.,Group 2022 - 23,Music festival and Events,Queensland Government Education,,,,X
+,Survivability,The degree to which an application/company can exist for a long time.,Group 2022 - 23,Music festival and Events,,X,,,
+,Customer Privacy,The degree to which a customer's data can not be traced back to him/her.,Group 2022 - 23,Music festival and Events,,,,,X
+,Data Secyrity Costs,The amount of money it costs to make data storage secure.,Group 2022 - 23,Music festival and Events,,,,X,
+,Functional Appropriateness,degree to which the functions facilitate the accomplishment of specified tasks and objectives.,Group 2022 - 24,Art industry,[ISO/IEC 25010:2011],X,,,
+,Resource Utilization,"degree to which the amounts and types of resources used by a system, when performing its.",Group 2022 - 24,Art industry,[ISO/IEC 25010:2011],,X,,
+,Maturity,Degree to which a system meets needs for reliability under normal operation degree to which a system or component operates as intended despite the presence of hardware or software faults.,Group 2022 - 24,Art industry,[ISO/IEC 25010:2011],X,,,
+,,,,Art industry,,,,,
+,Fault Tolerance,,,Art industry,[ISO/IEC 25010:2011],X,,,
+,,,,Art industry,,,,,
+,Availability,degree to which a system or component is operational and accessible when required for use.,Group 2022 - 24,Art industry,[ISO/IEC 25010:2011],X,,,
+,,degree to which availability supports economic factors.,Group 2022 - 24,Art industry,,,,X,
+,,Degree to which this supports the social aspects the degree to which a system behaves in an acceptable way in unexpected situations.,Group 2022 - 24,Art industry,,,,,X
+,Robustness,,,Art industry,[S-Cube Quality Reference Model (2012)],X,,,
+,,,,Art industry,,,,,
+,Accountability,Degree to which the actions of an entity can be traced uniquely to the entity.,Group 2022 - 24,Art industry,[ISO/IEC 25010:2011],,,,X
+,Confidentiality,Degree to which a system ensures that data are accessible only to those authorized to have access.,Group 2022 - 24,Art industry,[ISO/IEC 25010:2011],,,,X
+,Pleasure,Degree to which the people like using the system.,Group 2022 - 24,Art industry,"[Standford Encyclopedia of Philosophy, (17.06.2017)",,,,X
+,Energy Efficiency,Degree to which the system uses the energy.,Group 2022 - 24,Art industry,[Environmental and Energy Study Institute],,X,,
+,Economic Risk Mitigation,Degree to which a system mitigates the potential risk to financial statusmin the intended contexts of use.,Group 2022 - 24,Art industry,simplified from [ISO/IEC 25010:2011],,,X,
