@@ -15,7 +15,7 @@ Year,SQC,Definition ,Source,Project Domain,Reference,Technical,Environmental,Eco
 ,,,Group 2 - 2023,Art and Museum,[ISO/IEC 25010:2011],,,,
 ,,,Group 4 - 2023,,,,,,
 ,,,Group 7 - 2023,,,,,,
-,Efficiency,Resources expended in relation to the accuracy and completeness of the system.,Group 1 - 2023,Urban Mobility,[ISO/IEC 25010:2011],X,,,
+,Computation Efficiency,Resources expended in relation to the accuracy and completeness of the system.,Group 1 - 2023,Urban Mobility,[ISO/IEC 25010:2011],X,,,
 ,,,Group 7 - 2023,Art and Museum,,,,,
 ,,,Group 17 - 2023,Education,,,,,
 ,,"Resources expended in relation to the accuracy and completeness with which users achieve their goals, focusing on the time, effort, and cognitive load required by users to interact effectively with the system.",Group 1 - 2023,Urban Mobility,,,,,X
@@ -227,7 +227,7 @@ Social: Includes the capacity to adjust to and absorb knowledge from technologic
 ,,"The extent to which a system meets all user needs and accessibility requirements, ensuring a seamless and satisfactory user experience.",,,,,,,X
 ,Testability,Degree of effectiveness and efficiency with which test criteria can be established for a system. ,Group 18 - 2023,Art and Museum,[ISO/IEC 25010:2011],X,,,
 ,,,,,,,,,
-2024,Efiiciency,"The degree to which user goals are achieved with minimal cost and energy consumption, reducing both operational expenses and environmental impact.",Group 2024-1000,Healthcare,[ISO/IEC 25010:2011],,X,X,
+2024,Resource Efficiency,"The degree to which user goals are achieved with minimal cost and energy consumption, reducing both operational expenses and environmental impact.",Group 2024-1000,Healthcare,[ISO/IEC 25010:2011],,X,X,
 ,,,Group 2024-1600,Digital Local Communities,,,,,
 ,,,Group 2024-9400,Urban Agriculture,,,,,
 ,,,Group2024-9500,Public Transport,,,,,
